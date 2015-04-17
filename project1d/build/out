@@ -1,0 +1,1707 @@
+Reading
+Done reading
+WORKING ON TRIANGLE 0
+
+
+Scanline 865 with left intercept at 550.749, depth -0.938775, and color 0.100633/0.100633/0.538285, right intercept at 551.02, depth -0.939111, and color 0.100936/0.100936/0.538833
+Assigning pixel (551, 865) with color 26, 26, 138 and depth -0.939086
+Scanline 866 with left intercept at 549.838, depth -0.938775, and color 0.10097/0.10097/0.538893, right intercept at 551.02, depth -0.940242, and color 0.102296/0.102296/0.541283
+Assigning pixel (550, 866) with color 26, 26, 138 and depth -0.938977
+Assigning pixel (551, 866) with color 27, 27, 139 and depth -0.940216
+Scanline 867 with left intercept at 548.926, depth -0.938775, and color 0.101307/0.101307/0.539501, right intercept at 551.02, depth -0.941372, and color 0.103655/0.103655/0.543734
+Assigning pixel (549, 867) with color 26, 26, 138 and depth -0.938867
+Assigning pixel (550, 867) with color 27, 27, 139 and depth -0.940107
+Assigning pixel (551, 867) with color 27, 27, 139 and depth -0.941347
+Scanline 868 with left intercept at 548.014, depth -0.938775, and color 0.101645/0.101645/0.540109, right intercept at 551.02, depth -0.942502, and color 0.105014/0.105014/0.546184
+Assigning pixel (549, 868) with color 27, 27, 139 and depth -0.939998
+Assigning pixel (550, 868) with color 27, 27, 139 and depth -0.941237
+Assigning pixel (551, 868) with color 27, 27, 140 and depth -0.942477
+Scanline 869 with left intercept at 547.102, depth -0.938775, and color 0.101982/0.101982/0.540717, right intercept at 551.02, depth -0.943633, and color 0.106373/0.106373/0.548635
+Assigning pixel (548, 869) with color 27, 27, 139 and depth -0.939888
+Assigning pixel (549, 869) with color 27, 27, 139 and depth -0.941128
+Assigning pixel (550, 869) with color 27, 27, 140 and depth -0.942368
+Assigning pixel (551, 869) with color 28, 28, 140 and depth -0.943607
+Scanline 870 with left intercept at 546.191, depth -0.938775, and color 0.102319/0.102319/0.541325, right intercept at 551.02, depth -0.944763, and color 0.107733/0.107733/0.551085
+Assigning pixel (547, 870) with color 27, 27, 139 and depth -0.939779
+Assigning pixel (548, 870) with color 27, 27, 139 and depth -0.941018
+Assigning pixel (549, 870) with color 27, 27, 140 and depth -0.942258
+Assigning pixel (550, 870) with color 28, 28, 141 and depth -0.943498
+Assigning pixel (551, 870) with color 28, 28, 141 and depth -0.944738
+Scanline 871 with left intercept at 545.279, depth -0.938775, and color 0.102656/0.102656/0.541934, right intercept at 551.02, depth -0.945893, and color 0.109092/0.109092/0.553536
+Assigning pixel (546, 871) with color 27, 27, 139 and depth -0.939669
+Assigning pixel (547, 871) with color 27, 27, 140 and depth -0.940909
+Assigning pixel (548, 871) with color 27, 27, 140 and depth -0.942149
+Assigning pixel (549, 871) with color 28, 28, 141 and depth -0.943389
+Assigning pixel (550, 871) with color 28, 28, 141 and depth -0.944628
+Assigning pixel (551, 871) with color 28, 28, 142 and depth -0.945868
+Scanline 872 with left intercept at 544.367, depth -0.938775, and color 0.102994/0.102994/0.542542, right intercept at 551.02, depth -0.947024, and color 0.110451/0.110451/0.555986
+Assigning pixel (545, 872) with color 27, 27, 139 and depth -0.93956
+Assigning pixel (546, 872) with color 27, 27, 140 and depth -0.9408
+Assigning pixel (547, 872) with color 28, 28, 140 and depth -0.942039
+Assigning pixel (548, 872) with color 28, 28, 141 and depth -0.943279
+Assigning pixel (549, 872) with color 28, 28, 141 and depth -0.944519
+Assigning pixel (550, 872) with color 28, 28, 142 and depth -0.945759
+Assigning pixel (551, 872) with color 29, 29, 142 and depth -0.946998
+Scanline 873 with left intercept at 543.455, depth -0.938775, and color 0.103331/0.103331/0.54315, right intercept at 551.02, depth -0.948154, and color 0.11181/0.11181/0.558437
+Assigning pixel (544, 873) with color 27, 27, 139 and depth -0.939451
+Assigning pixel (545, 873) with color 27, 27, 140 and depth -0.94069
+Assigning pixel (546, 873) with color 28, 28, 140 and depth -0.94193
+Assigning pixel (547, 873) with color 28, 28, 141 and depth -0.94317
+Assigning pixel (548, 873) with color 28, 28, 141 and depth -0.944409
+Assigning pixel (549, 873) with color 28, 28, 142 and depth -0.945649
+Assigning pixel (550, 873) with color 29, 29, 142 and depth -0.946889
+Assigning pixel (551, 873) with color 29, 29, 143 and depth -0.948129
+Scanline 874 with left intercept at 542.544, depth -0.938775, and color 0.103668/0.103668/0.543758, right intercept at 551.02, depth -0.949284, and color 0.11317/0.11317/0.560887
+Assigning pixel (543, 874) with color 27, 27, 139 and depth -0.939341
+Assigning pixel (544, 874) with color 27, 27, 140 and depth -0.940581
+Assigning pixel (545, 874) with color 28, 28, 140 and depth -0.941821
+Assigning pixel (546, 874) with color 28, 28, 141 and depth -0.94306
+Assigning pixel (547, 874) with color 28, 28, 141 and depth -0.9443
+Assigning pixel (548, 874) with color 28, 28, 142 and depth -0.94554
+Assigning pixel (549, 874) with color 29, 29, 142 and depth -0.94678
+Assigning pixel (550, 874) with color 29, 29, 143 and depth -0.948019
+Assigning pixel (551, 874) with color 29, 29, 144 and depth -0.949259
+Scanline 875 with left intercept at 541.632, depth -0.938775, and color 0.104006/0.104006/0.544366, right intercept at 551.02, depth -0.950415, and color 0.114529/0.114529/0.563338
+Assigning pixel (542, 875) with color 27, 27, 140 and depth -0.939232
+Assigning pixel (543, 875) with color 27, 27, 140 and depth -0.940472
+Assigning pixel (544, 875) with color 28, 28, 141 and depth -0.941711
+Assigning pixel (545, 875) with color 28, 28, 141 and depth -0.942951
+Assigning pixel (546, 875) with color 28, 28, 142 and depth -0.944191
+Assigning pixel (547, 875) with color 29, 29, 142 and depth -0.94543
+Assigning pixel (548, 875) with color 29, 29, 143 and depth -0.94667
+Assigning pixel (549, 875) with color 29, 29, 143 and depth -0.94791
+Assigning pixel (550, 875) with color 29, 29, 144 and depth -0.94915
+Assigning pixel (551, 875) with color 30, 30, 144 and depth -0.950389
+Scanline 876 with left intercept at 540.72, depth -0.938775, and color 0.104343/0.104343/0.544974, right intercept at 551.02, depth -0.951545, and color 0.115888/0.115888/0.565788
+Assigning pixel (541, 876) with color 27, 27, 140 and depth -0.939122
+Assigning pixel (542, 876) with color 27, 27, 140 and depth -0.940362
+Assigning pixel (543, 876) with color 28, 28, 141 and depth -0.941602
+Assigning pixel (544, 876) with color 28, 28, 141 and depth -0.942842
+Assigning pixel (545, 876) with color 28, 28, 142 and depth -0.944081
+Assigning pixel (546, 876) with color 29, 29, 142 and depth -0.945321
+Assigning pixel (547, 876) with color 29, 29, 143 and depth -0.946561
+Assigning pixel (548, 876) with color 29, 29, 143 and depth -0.9478
+Assigning pixel (549, 876) with color 29, 29, 144 and depth -0.94904
+Assigning pixel (550, 876) with color 30, 30, 144 and depth -0.95028
+Assigning pixel (551, 876) with color 30, 30, 145 and depth -0.95152
+Scanline 877 with left intercept at 539.808, depth -0.938775, and color 0.10468/0.10468/0.545582, right intercept at 551.02, depth -0.952675, and color 0.117247/0.117247/0.568238
+Assigning pixel (540, 877) with color 27, 27, 140 and depth -0.939013
+Assigning pixel (541, 877) with color 28, 28, 140 and depth -0.940253
+Assigning pixel (542, 877) with color 28, 28, 141 and depth -0.941492
+Assigning pixel (543, 877) with color 28, 28, 141 and depth -0.942732
+Assigning pixel (544, 877) with color 28, 28, 142 and depth -0.943972
+Assigning pixel (545, 877) with color 29, 29, 142 and depth -0.945212
+Assigning pixel (546, 877) with color 29, 29, 143 and depth -0.946451
+Assigning pixel (547, 877) with color 29, 29, 143 and depth -0.947691
+Assigning pixel (548, 877) with color 30, 30, 144 and depth -0.948931
+Assigning pixel (549, 877) with color 30, 30, 144 and depth -0.950171
+Assigning pixel (550, 877) with color 30, 30, 145 and depth -0.95141
+Assigning pixel (551, 877) with color 30, 30, 145 and depth -0.95265
+WORKING ON TRIANGLE 1
+
+
+Scanline 863 with left intercept at 570.233, depth -0.939626, and color 0.101435/0.101435/0.539732, right intercept at 571.429, depth -0.939795, and color 0.101773/0.101773/0.540341
+Assigning pixel (571, 863) with color 26, 26, 138 and depth -0.939734
+Scanline 864 with left intercept at 568.913, depth -0.940566, and color 0.102573/0.102573/0.541784, right intercept at 571.429, depth -0.940921, and color 0.103284/0.103284/0.543065
+Assigning pixel (569, 864) with color 27, 27, 139 and depth -0.940578
+Assigning pixel (570, 864) with color 27, 27, 139 and depth -0.940719
+Assigning pixel (571, 864) with color 27, 27, 139 and depth -0.94086
+Scanline 865 with left intercept at 567.592, depth -0.941505, and color 0.103712/0.103712/0.543836, right intercept at 571.429, depth -0.942046, and color 0.104795/0.104795/0.545788
+Assigning pixel (568, 865) with color 27, 27, 139 and depth -0.941563
+Assigning pixel (569, 865) with color 27, 27, 139 and depth -0.941704
+Assigning pixel (570, 865) with color 27, 27, 139 and depth -0.941845
+Assigning pixel (571, 865) with color 27, 27, 140 and depth -0.941986
+Scanline 866 with left intercept at 566.272, depth -0.942445, and color 0.10485/0.10485/0.545888, right intercept at 571.429, depth -0.943172, and color 0.106306/0.106306/0.548512
+Assigning pixel (567, 866) with color 27, 27, 140 and depth -0.942548
+Assigning pixel (568, 866) with color 27, 27, 140 and depth -0.942689
+Assigning pixel (569, 866) with color 27, 27, 140 and depth -0.94283
+Assigning pixel (570, 866) with color 28, 28, 140 and depth -0.942971
+Assigning pixel (571, 866) with color 28, 28, 140 and depth -0.943112
+Scanline 867 with left intercept at 564.952, depth -0.943385, and color 0.105988/0.105988/0.547939, right intercept at 571.429, depth -0.944298, and color 0.107817/0.107817/0.551236
+Assigning pixel (565, 867) with color 28, 28, 140 and depth -0.943391
+Assigning pixel (566, 867) with color 28, 28, 140 and depth -0.943532
+Assigning pixel (567, 867) with color 28, 28, 140 and depth -0.943673
+Assigning pixel (568, 867) with color 28, 28, 141 and depth -0.943814
+Assigning pixel (569, 867) with color 28, 28, 141 and depth -0.943955
+Assigning pixel (570, 867) with color 28, 28, 141 and depth -0.944096
+Assigning pixel (571, 867) with color 28, 28, 141 and depth -0.944238
+Scanline 868 with left intercept at 563.631, depth -0.944324, and color 0.107126/0.107126/0.549991, right intercept at 571.429, depth -0.945424, and color 0.109328/0.109328/0.55396
+Assigning pixel (564, 868) with color 28, 28, 141 and depth -0.944376
+Assigning pixel (565, 868) with color 28, 28, 141 and depth -0.944517
+Assigning pixel (566, 868) with color 28, 28, 141 and depth -0.944658
+Assigning pixel (567, 868) with color 28, 28, 141 and depth -0.944799
+Assigning pixel (568, 868) with color 28, 28, 141 and depth -0.94494
+Assigning pixel (569, 868) with color 28, 28, 141 and depth -0.945081
+Assigning pixel (570, 868) with color 28, 28, 142 and depth -0.945222
+Assigning pixel (571, 868) with color 28, 28, 142 and depth -0.945363
+Scanline 869 with left intercept at 562.311, depth -0.945264, and color 0.108264/0.108264/0.552043, right intercept at 571.429, depth -0.94655, and color 0.110838/0.110838/0.556684
+Assigning pixel (563, 869) with color 28, 28, 141 and depth -0.945361
+Assigning pixel (564, 869) with color 28, 28, 141 and depth -0.945502
+Assigning pixel (565, 869) with color 28, 28, 142 and depth -0.945643
+Assigning pixel (566, 869) with color 28, 28, 142 and depth -0.945784
+Assigning pixel (567, 869) with color 28, 28, 142 and depth -0.945925
+Assigning pixel (568, 869) with color 29, 29, 142 and depth -0.946066
+Assigning pixel (569, 869) with color 29, 29, 142 and depth -0.946207
+Assigning pixel (570, 869) with color 29, 29, 142 and depth -0.946348
+Assigning pixel (571, 869) with color 29, 29, 142 and depth -0.946489
+Scanline 870 with left intercept at 560.991, depth -0.946203, and color 0.109402/0.109402/0.554095, right intercept at 571.429, depth -0.947675, and color 0.112349/0.112349/0.559408
+Assigning pixel (561, 870) with color 28, 28, 142 and depth -0.946205
+Assigning pixel (562, 870) with color 28, 28, 142 and depth -0.946346
+Assigning pixel (563, 870) with color 29, 29, 142 and depth -0.946487
+Assigning pixel (564, 870) with color 29, 29, 142 and depth -0.946628
+Assigning pixel (565, 870) with color 29, 29, 142 and depth -0.946769
+Assigning pixel (566, 870) with color 29, 29, 142 and depth -0.94691
+Assigning pixel (567, 870) with color 29, 29, 143 and depth -0.947051
+Assigning pixel (568, 870) with color 29, 29, 143 and depth -0.947192
+Assigning pixel (569, 870) with color 29, 29, 143 and depth -0.947333
+Assigning pixel (570, 870) with color 29, 29, 143 and depth -0.947474
+Assigning pixel (571, 870) with color 29, 29, 143 and depth -0.947615
+Scanline 871 with left intercept at 559.67, depth -0.947143, and color 0.11054/0.11054/0.556147, right intercept at 571.429, depth -0.948801, and color 0.11386/0.11386/0.562132
+Assigning pixel (560, 871) with color 29, 29, 142 and depth -0.947189
+Assigning pixel (561, 871) with color 29, 29, 142 and depth -0.94733
+Assigning pixel (562, 871) with color 29, 29, 143 and depth -0.947471
+Assigning pixel (563, 871) with color 29, 29, 143 and depth -0.947612
+Assigning pixel (564, 871) with color 29, 29, 143 and depth -0.947753
+Assigning pixel (565, 871) with color 29, 29, 143 and depth -0.947895
+Assigning pixel (566, 871) with color 29, 29, 143 and depth -0.948036
+Assigning pixel (567, 871) with color 29, 29, 143 and depth -0.948177
+Assigning pixel (568, 871) with color 29, 29, 143 and depth -0.948318
+Assigning pixel (569, 871) with color 29, 29, 144 and depth -0.948459
+Assigning pixel (570, 871) with color 29, 29, 144 and depth -0.9486
+Assigning pixel (571, 871) with color 30, 30, 144 and depth -0.948741
+Scanline 872 with left intercept at 558.35, depth -0.948082, and color 0.111679/0.111679/0.558199, right intercept at 571.429, depth -0.949927, and color 0.115371/0.115371/0.564856
+Assigning pixel (559, 872) with color 29, 29, 143 and depth -0.948174
+Assigning pixel (560, 872) with color 29, 29, 143 and depth -0.948315
+Assigning pixel (561, 872) with color 29, 29, 143 and depth -0.948456
+Assigning pixel (562, 872) with color 29, 29, 143 and depth -0.948597
+Assigning pixel (563, 872) with color 29, 29, 143 and depth -0.948738
+Assigning pixel (564, 872) with color 29, 29, 144 and depth -0.948879
+Assigning pixel (565, 872) with color 29, 29, 144 and depth -0.94902
+Assigning pixel (566, 872) with color 30, 30, 144 and depth -0.949161
+Assigning pixel (567, 872) with color 30, 30, 144 and depth -0.949302
+Assigning pixel (568, 872) with color 30, 30, 144 and depth -0.949443
+Assigning pixel (569, 872) with color 30, 30, 144 and depth -0.949584
+Assigning pixel (570, 872) with color 30, 30, 144 and depth -0.949725
+Assigning pixel (571, 872) with color 30, 30, 144 and depth -0.949866
+Scanline 873 with left intercept at 557.029, depth -0.949022, and color 0.112817/0.112817/0.560251, right intercept at 571.429, depth -0.951053, and color 0.116882/0.116882/0.56758
+Assigning pixel (558, 873) with color 29, 29, 143 and depth -0.949159
+Assigning pixel (559, 873) with color 29, 29, 144 and depth -0.9493
+Assigning pixel (560, 873) with color 29, 29, 144 and depth -0.949441
+Assigning pixel (561, 873) with color 30, 30, 144 and depth -0.949582
+Assigning pixel (562, 873) with color 30, 30, 144 and depth -0.949723
+Assigning pixel (563, 873) with color 30, 30, 144 and depth -0.949864
+Assigning pixel (564, 873) with color 30, 30, 144 and depth -0.950005
+Assigning pixel (565, 873) with color 30, 30, 144 and depth -0.950146
+Assigning pixel (566, 873) with color 30, 30, 145 and depth -0.950287
+Assigning pixel (567, 873) with color 30, 30, 145 and depth -0.950428
+Assigning pixel (568, 873) with color 30, 30, 145 and depth -0.950569
+Assigning pixel (569, 873) with color 30, 30, 145 and depth -0.95071
+Assigning pixel (570, 873) with color 30, 30, 145 and depth -0.950851
+Assigning pixel (571, 873) with color 30, 30, 145 and depth -0.950992
+Scanline 874 with left intercept at 555.709, depth -0.949962, and color 0.113955/0.113955/0.562303, right intercept at 571.429, depth -0.952178, and color 0.118393/0.118393/0.570304
+Assigning pixel (556, 874) with color 30, 30, 144 and depth -0.950003
+Assigning pixel (557, 874) with color 30, 30, 144 and depth -0.950144
+Assigning pixel (558, 874) with color 30, 30, 144 and depth -0.950285
+Assigning pixel (559, 874) with color 30, 30, 144 and depth -0.950426
+Assigning pixel (560, 874) with color 30, 30, 144 and depth -0.950567
+Assigning pixel (561, 874) with color 30, 30, 145 and depth -0.950708
+Assigning pixel (562, 874) with color 30, 30, 145 and depth -0.950849
+Assigning pixel (563, 874) with color 30, 30, 145 and depth -0.95099
+Assigning pixel (564, 874) with color 30, 30, 145 and depth -0.951131
+Assigning pixel (565, 874) with color 30, 30, 145 and depth -0.951272
+Assigning pixel (566, 874) with color 30, 30, 145 and depth -0.951413
+Assigning pixel (567, 874) with color 30, 30, 145 and depth -0.951554
+Assigning pixel (568, 874) with color 30, 30, 145 and depth -0.951695
+Assigning pixel (569, 874) with color 31, 31, 146 and depth -0.951836
+Assigning pixel (570, 874) with color 31, 31, 146 and depth -0.951977
+Assigning pixel (571, 874) with color 31, 31, 146 and depth -0.952118
+Scanline 875 with left intercept at 554.389, depth -0.950901, and color 0.115093/0.115093/0.564354, right intercept at 571.429, depth -0.953304, and color 0.119904/0.119904/0.573028
+Assigning pixel (555, 875) with color 30, 30, 144 and depth -0.950987
+Assigning pixel (556, 875) with color 30, 30, 145 and depth -0.951128
+Assigning pixel (557, 875) with color 30, 30, 145 and depth -0.951269
+Assigning pixel (558, 875) with color 30, 30, 145 and depth -0.951411
+Assigning pixel (559, 875) with color 30, 30, 145 and depth -0.951552
+Assigning pixel (560, 875) with color 30, 30, 145 and depth -0.951693
+Assigning pixel (561, 875) with color 30, 30, 145 and depth -0.951834
+Assigning pixel (562, 875) with color 30, 30, 145 and depth -0.951975
+Assigning pixel (563, 875) with color 30, 30, 146 and depth -0.952116
+Assigning pixel (564, 875) with color 31, 31, 146 and depth -0.952257
+Assigning pixel (565, 875) with color 31, 31, 146 and depth -0.952398
+Assigning pixel (566, 875) with color 31, 31, 146 and depth -0.952539
+Assigning pixel (567, 875) with color 31, 31, 146 and depth -0.95268
+Assigning pixel (568, 875) with color 31, 31, 146 and depth -0.952821
+Assigning pixel (569, 875) with color 31, 31, 146 and depth -0.952962
+Assigning pixel (570, 875) with color 31, 31, 146 and depth -0.953103
+Assigning pixel (571, 875) with color 31, 31, 147 and depth -0.953244
+Scanline 876 with left intercept at 553.068, depth -0.951841, and color 0.116231/0.116231/0.566406, right intercept at 571.429, depth -0.95443, and color 0.121415/0.121415/0.575752
+Assigning pixel (554, 876) with color 30, 30, 145 and depth -0.951972
+Assigning pixel (555, 876) with color 30, 30, 145 and depth -0.952113
+Assigning pixel (556, 876) with color 30, 30, 145 and depth -0.952254
+Assigning pixel (557, 876) with color 30, 30, 145 and depth -0.952395
+Assigning pixel (558, 876) with color 30, 30, 146 and depth -0.952536
+Assigning pixel (559, 876) with color 31, 31, 146 and depth -0.952677
+Assigning pixel (560, 876) with color 31, 31, 146 and depth -0.952818
+Assigning pixel (561, 876) with color 31, 31, 146 and depth -0.952959
+Assigning pixel (562, 876) with color 31, 31, 146 and depth -0.9531
+Assigning pixel (563, 876) with color 31, 31, 146 and depth -0.953241
+Assigning pixel (564, 876) with color 31, 31, 146 and depth -0.953382
+Assigning pixel (565, 876) with color 31, 31, 146 and depth -0.953523
+Assigning pixel (566, 876) with color 31, 31, 147 and depth -0.953664
+Assigning pixel (567, 876) with color 31, 31, 147 and depth -0.953805
+Assigning pixel (568, 876) with color 31, 31, 147 and depth -0.953946
+Assigning pixel (569, 876) with color 31, 31, 147 and depth -0.954088
+Assigning pixel (570, 876) with color 31, 31, 147 and depth -0.954229
+Assigning pixel (571, 876) with color 31, 31, 147 and depth -0.95437
+Scanline 877 with left intercept at 551.748, depth -0.95278, and color 0.117369/0.117369/0.568458, right intercept at 571.429, depth -0.955556, and color 0.122926/0.122926/0.578476
+Assigning pixel (552, 877) with color 30, 30, 145 and depth -0.952816
+Assigning pixel (553, 877) with color 31, 31, 146 and depth -0.952957
+Assigning pixel (554, 877) with color 31, 31, 146 and depth -0.953098
+Assigning pixel (555, 877) with color 31, 31, 146 and depth -0.953239
+Assigning pixel (556, 877) with color 31, 31, 146 and depth -0.95338
+Assigning pixel (557, 877) with color 31, 31, 146 and depth -0.953521
+Assigning pixel (558, 877) with color 31, 31, 146 and depth -0.953662
+Assigning pixel (559, 877) with color 31, 31, 146 and depth -0.953803
+Assigning pixel (560, 877) with color 31, 31, 147 and depth -0.953944
+Assigning pixel (561, 877) with color 31, 31, 147 and depth -0.954085
+Assigning pixel (562, 877) with color 31, 31, 147 and depth -0.954226
+Assigning pixel (563, 877) with color 31, 31, 147 and depth -0.954367
+Assigning pixel (564, 877) with color 31, 31, 147 and depth -0.954508
+Assigning pixel (565, 877) with color 31, 31, 147 and depth -0.954649
+Assigning pixel (566, 877) with color 31, 31, 147 and depth -0.95479
+Assigning pixel (567, 877) with color 32, 32, 147 and depth -0.954931
+Assigning pixel (568, 877) with color 32, 32, 148 and depth -0.955072
+Assigning pixel (569, 877) with color 32, 32, 148 and depth -0.955213
+Assigning pixel (570, 877) with color 32, 32, 148 and depth -0.955354
+Assigning pixel (571, 877) with color 32, 32, 148 and depth -0.955495
+WORKING ON TRIANGLE 2
+
+
+Scanline 877 with left intercept at 551.02, depth -0.952675, and color 0.117247/0.117247/0.568238, right intercept at 551.748, depth -0.95278, and color 0.117369/0.117369/0.568458
+Scanline 876 with left intercept at 551.02, depth -0.951545, and color 0.115888/0.115888/0.565788, right intercept at 553.068, depth -0.951841, and color 0.116231/0.116231/0.566406
+Assigning pixel (552, 876) with color 30, 30, 145 and depth -0.951686
+Assigning pixel (553, 876) with color 30, 30, 145 and depth -0.951831
+Scanline 875 with left intercept at 551.02, depth -0.950415, and color 0.114529/0.114529/0.563338, right intercept at 554.389, depth -0.950901, and color 0.115093/0.115093/0.564354
+Assigning pixel (552, 875) with color 30, 30, 144 and depth -0.950556
+Assigning pixel (553, 875) with color 30, 30, 144 and depth -0.950701
+Assigning pixel (554, 875) with color 30, 30, 144 and depth -0.950845
+Scanline 874 with left intercept at 551.02, depth -0.949284, and color 0.11317/0.11317/0.560887, right intercept at 555.709, depth -0.949962, and color 0.113955/0.113955/0.562303
+Assigning pixel (552, 874) with color 29, 29, 144 and depth -0.949426
+Assigning pixel (553, 874) with color 29, 29, 144 and depth -0.94957
+Assigning pixel (554, 874) with color 29, 29, 144 and depth -0.949715
+Assigning pixel (555, 874) with color 30, 30, 144 and depth -0.949859
+Scanline 873 with left intercept at 551.02, depth -0.948154, and color 0.11181/0.11181/0.558437, right intercept at 557.029, depth -0.949022, and color 0.112817/0.112817/0.560251
+Assigning pixel (552, 873) with color 29, 29, 143 and depth -0.948295
+Assigning pixel (553, 873) with color 29, 29, 143 and depth -0.94844
+Assigning pixel (554, 873) with color 29, 29, 143 and depth -0.948584
+Assigning pixel (555, 873) with color 29, 29, 143 and depth -0.948729
+Assigning pixel (556, 873) with color 29, 29, 143 and depth -0.948873
+Assigning pixel (557, 873) with color 29, 29, 143 and depth -0.949018
+Scanline 872 with left intercept at 551.02, depth -0.947024, and color 0.110451/0.110451/0.555986, right intercept at 558.35, depth -0.948082, and color 0.111679/0.111679/0.558199
+Assigning pixel (552, 872) with color 29, 29, 142 and depth -0.947165
+Assigning pixel (553, 872) with color 29, 29, 142 and depth -0.94731
+Assigning pixel (554, 872) with color 29, 29, 143 and depth -0.947454
+Assigning pixel (555, 872) with color 29, 29, 143 and depth -0.947599
+Assigning pixel (556, 872) with color 29, 29, 143 and depth -0.947743
+Assigning pixel (557, 872) with color 29, 29, 143 and depth -0.947887
+Assigning pixel (558, 872) with color 29, 29, 143 and depth -0.948032
+Scanline 871 with left intercept at 551.02, depth -0.945893, and color 0.109092/0.109092/0.553536, right intercept at 559.67, depth -0.947143, and color 0.11054/0.11054/0.556147
+Assigning pixel (552, 871) with color 28, 28, 142 and depth -0.946035
+Assigning pixel (553, 871) with color 28, 28, 142 and depth -0.946179
+Assigning pixel (554, 871) with color 28, 28, 142 and depth -0.946324
+Assigning pixel (555, 871) with color 28, 28, 142 and depth -0.946468
+Assigning pixel (556, 871) with color 29, 29, 142 and depth -0.946613
+Assigning pixel (557, 871) with color 29, 29, 142 and depth -0.946757
+Assigning pixel (558, 871) with color 29, 29, 142 and depth -0.946902
+Assigning pixel (559, 871) with color 29, 29, 142 and depth -0.947046
+Scanline 870 with left intercept at 551.02, depth -0.944763, and color 0.107733/0.107733/0.551085, right intercept at 560.991, depth -0.946203, and color 0.109402/0.109402/0.554095
+Assigning pixel (552, 870) with color 28, 28, 141 and depth -0.944904
+Assigning pixel (553, 870) with color 28, 28, 141 and depth -0.945049
+Assigning pixel (554, 870) with color 28, 28, 141 and depth -0.945193
+Assigning pixel (555, 870) with color 28, 28, 141 and depth -0.945338
+Assigning pixel (556, 870) with color 28, 28, 141 and depth -0.945482
+Assigning pixel (557, 870) with color 28, 28, 141 and depth -0.945627
+Assigning pixel (558, 870) with color 28, 28, 142 and depth -0.945771
+Assigning pixel (559, 870) with color 28, 28, 142 and depth -0.945916
+Assigning pixel (560, 870) with color 28, 28, 142 and depth -0.94606
+Scanline 869 with left intercept at 551.02, depth -0.943633, and color 0.106373/0.106373/0.548635, right intercept at 562.311, depth -0.945264, and color 0.108264/0.108264/0.552043
+Assigning pixel (552, 869) with color 28, 28, 140 and depth -0.943774
+Assigning pixel (553, 869) with color 28, 28, 141 and depth -0.943919
+Assigning pixel (554, 869) with color 28, 28, 141 and depth -0.944063
+Assigning pixel (555, 869) with color 28, 28, 141 and depth -0.944208
+Assigning pixel (556, 869) with color 28, 28, 141 and depth -0.944352
+Assigning pixel (557, 869) with color 28, 28, 141 and depth -0.944496
+Assigning pixel (558, 869) with color 28, 28, 141 and depth -0.944641
+Assigning pixel (559, 869) with color 28, 28, 141 and depth -0.944785
+Assigning pixel (560, 869) with color 28, 28, 141 and depth -0.94493
+Assigning pixel (561, 869) with color 28, 28, 141 and depth -0.945074
+Assigning pixel (562, 869) with color 28, 28, 141 and depth -0.945219
+Scanline 868 with left intercept at 551.02, depth -0.942502, and color 0.105014/0.105014/0.546184, right intercept at 563.631, depth -0.944324, and color 0.107126/0.107126/0.549991
+Assigning pixel (552, 868) with color 27, 27, 140 and depth -0.942644
+Assigning pixel (553, 868) with color 27, 27, 140 and depth -0.942788
+Assigning pixel (554, 868) with color 27, 27, 140 and depth -0.942933
+Assigning pixel (555, 868) with color 27, 27, 140 and depth -0.943077
+Assigning pixel (556, 868) with color 27, 27, 140 and depth -0.943222
+Assigning pixel (557, 868) with color 28, 28, 140 and depth -0.943366
+Assigning pixel (558, 868) with color 28, 28, 140 and depth -0.943511
+Assigning pixel (559, 868) with color 28, 28, 140 and depth -0.943655
+Assigning pixel (560, 868) with color 28, 28, 140 and depth -0.9438
+Assigning pixel (561, 868) with color 28, 28, 141 and depth -0.943944
+Assigning pixel (562, 868) with color 28, 28, 141 and depth -0.944088
+Assigning pixel (563, 868) with color 28, 28, 141 and depth -0.944233
+Scanline 867 with left intercept at 551.02, depth -0.941372, and color 0.103655/0.103655/0.543734, right intercept at 564.952, depth -0.943385, and color 0.105988/0.105988/0.547939
+Assigning pixel (552, 867) with color 27, 27, 139 and depth -0.941514
+Assigning pixel (553, 867) with color 27, 27, 139 and depth -0.941658
+Assigning pixel (554, 867) with color 27, 27, 139 and depth -0.941802
+Assigning pixel (555, 867) with color 27, 27, 139 and depth -0.941947
+Assigning pixel (556, 867) with color 27, 27, 140 and depth -0.942091
+Assigning pixel (557, 867) with color 27, 27, 140 and depth -0.942236
+Assigning pixel (558, 867) with color 27, 27, 140 and depth -0.94238
+Assigning pixel (559, 867) with color 27, 27, 140 and depth -0.942525
+Assigning pixel (560, 867) with color 27, 27, 140 and depth -0.942669
+Assigning pixel (561, 867) with color 27, 27, 140 and depth -0.942814
+Assigning pixel (562, 867) with color 27, 27, 140 and depth -0.942958
+Assigning pixel (563, 867) with color 27, 27, 140 and depth -0.943103
+Assigning pixel (564, 867) with color 27, 27, 140 and depth -0.943247
+Scanline 866 with left intercept at 551.02, depth -0.940242, and color 0.102296/0.102296/0.541283, right intercept at 566.272, depth -0.942445, and color 0.10485/0.10485/0.545888
+Assigning pixel (552, 866) with color 27, 27, 139 and depth -0.940383
+Assigning pixel (553, 866) with color 27, 27, 139 and depth -0.940528
+Assigning pixel (554, 866) with color 27, 27, 139 and depth -0.940672
+Assigning pixel (555, 866) with color 27, 27, 139 and depth -0.940817
+Assigning pixel (556, 866) with color 27, 27, 139 and depth -0.940961
+Assigning pixel (557, 866) with color 27, 27, 139 and depth -0.941106
+Assigning pixel (558, 866) with color 27, 27, 139 and depth -0.94125
+Assigning pixel (559, 866) with color 27, 27, 139 and depth -0.941394
+Assigning pixel (560, 866) with color 27, 27, 139 and depth -0.941539
+Assigning pixel (561, 866) with color 27, 27, 139 and depth -0.941683
+Assigning pixel (562, 866) with color 27, 27, 139 and depth -0.941828
+Assigning pixel (563, 866) with color 27, 27, 139 and depth -0.941972
+Assigning pixel (564, 866) with color 27, 27, 140 and depth -0.942117
+Assigning pixel (565, 866) with color 27, 27, 140 and depth -0.942261
+Assigning pixel (566, 866) with color 27, 27, 140 and depth -0.942406
+Scanline 865 with left intercept at 551.02, depth -0.939111, and color 0.100936/0.100936/0.538833, right intercept at 567.592, depth -0.941505, and color 0.103712/0.103712/0.543836
+Assigning pixel (552, 865) with color 26, 26, 138 and depth -0.939253
+Assigning pixel (553, 865) with color 26, 26, 138 and depth -0.939397
+Assigning pixel (554, 865) with color 26, 26, 138 and depth -0.939542
+Assigning pixel (555, 865) with color 26, 26, 138 and depth -0.939686
+Assigning pixel (556, 865) with color 26, 26, 138 and depth -0.939831
+Assigning pixel (557, 865) with color 26, 26, 138 and depth -0.939975
+Assigning pixel (558, 865) with color 27, 27, 138 and depth -0.94012
+Assigning pixel (559, 865) with color 27, 27, 139 and depth -0.940264
+Assigning pixel (560, 865) with color 27, 27, 139 and depth -0.940409
+Assigning pixel (561, 865) with color 27, 27, 139 and depth -0.940553
+Assigning pixel (562, 865) with color 27, 27, 139 and depth -0.940698
+Assigning pixel (563, 865) with color 27, 27, 139 and depth -0.940842
+Assigning pixel (564, 865) with color 27, 27, 139 and depth -0.940986
+Assigning pixel (565, 865) with color 27, 27, 139 and depth -0.941131
+Assigning pixel (566, 865) with color 27, 27, 139 and depth -0.941275
+Assigning pixel (567, 865) with color 27, 27, 139 and depth -0.94142
+Scanline 863 with left intercept at 564.344, depth -0.938775, and color 0.100449/0.100449/0.537954, right intercept at 570.233, depth -0.939626, and color 0.101435/0.101435/0.539732
+Assigning pixel (565, 863) with color 26, 26, 138 and depth -0.93887
+Assigning pixel (566, 863) with color 26, 26, 138 and depth -0.939015
+Assigning pixel (567, 863) with color 26, 26, 138 and depth -0.939159
+Assigning pixel (568, 863) with color 26, 26, 138 and depth -0.939304
+Assigning pixel (569, 863) with color 26, 26, 138 and depth -0.939448
+Assigning pixel (570, 863) with color 26, 26, 138 and depth -0.939593
+Scanline 864 with left intercept at 556.519, depth -0.938775, and color 0.100498/0.100498/0.538042, right intercept at 568.913, depth -0.940566, and color 0.102573/0.102573/0.541784
+Assigning pixel (557, 864) with color 26, 26, 138 and depth -0.938845
+Assigning pixel (558, 864) with color 26, 26, 138 and depth -0.938989
+Assigning pixel (559, 864) with color 26, 26, 138 and depth -0.939134
+Assigning pixel (560, 864) with color 26, 26, 138 and depth -0.939278
+Assigning pixel (561, 864) with color 26, 26, 138 and depth -0.939423
+Assigning pixel (562, 864) with color 26, 26, 138 and depth -0.939567
+Assigning pixel (563, 864) with color 26, 26, 138 and depth -0.939712
+Assigning pixel (564, 864) with color 26, 26, 138 and depth -0.939856
+Assigning pixel (565, 864) with color 26, 26, 138 and depth -0.940001
+Assigning pixel (566, 864) with color 27, 27, 138 and depth -0.940145
+Assigning pixel (567, 864) with color 27, 27, 139 and depth -0.94029
+Assigning pixel (568, 864) with color 27, 27, 139 and depth -0.940434
+WORKING ON TRIANGLE 3
+
+
+Scanline 863 with left intercept at 571.429, depth -0.939795, and color 0.101773/0.101773/0.540341, right intercept at 572.46, depth -0.938775, and color 0.100957/0.100957/0.53887
+Assigning pixel (572, 863) with color 26, 26, 138 and depth -0.93923
+Scanline 864 with left intercept at 571.429, depth -0.940921, and color 0.103284/0.103284/0.543065, right intercept at 573.598, depth -0.938775, and color 0.101568/0.101568/0.539971
+Assigning pixel (572, 864) with color 27, 27, 139 and depth -0.940356
+Assigning pixel (573, 864) with color 27, 27, 138 and depth -0.939367
+Scanline 865 with left intercept at 571.429, depth -0.942046, and color 0.104795/0.104795/0.545788, right intercept at 574.737, depth -0.938775, and color 0.102178/0.102178/0.541071
+Assigning pixel (572, 865) with color 27, 27, 139 and depth -0.941481
+Assigning pixel (573, 865) with color 27, 27, 139 and depth -0.940493
+Assigning pixel (574, 865) with color 27, 27, 139 and depth -0.939504
+Scanline 866 with left intercept at 571.429, depth -0.943172, and color 0.106306/0.106306/0.548512, right intercept at 575.876, depth -0.938775, and color 0.102789/0.102789/0.542172
+Assigning pixel (572, 866) with color 27, 27, 140 and depth -0.942607
+Assigning pixel (573, 866) with color 27, 27, 140 and depth -0.941619
+Assigning pixel (574, 866) with color 27, 27, 139 and depth -0.94063
+Assigning pixel (575, 866) with color 27, 27, 139 and depth -0.939641
+Scanline 867 with left intercept at 571.429, depth -0.944298, and color 0.107817/0.107817/0.551236, right intercept at 577.014, depth -0.938775, and color 0.103399/0.103399/0.543272
+Assigning pixel (572, 867) with color 28, 28, 141 and depth -0.943733
+Assigning pixel (573, 867) with color 28, 28, 140 and depth -0.942744
+Assigning pixel (574, 867) with color 27, 27, 140 and depth -0.941756
+Assigning pixel (575, 867) with color 27, 27, 140 and depth -0.940767
+Assigning pixel (576, 867) with color 27, 27, 139 and depth -0.939778
+Assigning pixel (577, 867) with color 27, 27, 139 and depth -0.93879
+Scanline 868 with left intercept at 571.429, depth -0.945424, and color 0.109328/0.109328/0.55396, right intercept at 578.153, depth -0.938775, and color 0.104009/0.104009/0.544373
+Assigning pixel (572, 868) with color 28, 28, 142 and depth -0.944859
+Assigning pixel (573, 868) with color 28, 28, 141 and depth -0.94387
+Assigning pixel (574, 868) with color 28, 28, 141 and depth -0.942881
+Assigning pixel (575, 868) with color 28, 28, 140 and depth -0.941893
+Assigning pixel (576, 868) with color 27, 27, 140 and depth -0.940904
+Assigning pixel (577, 868) with color 27, 27, 140 and depth -0.939915
+Assigning pixel (578, 868) with color 27, 27, 139 and depth -0.938927
+Scanline 869 with left intercept at 571.429, depth -0.94655, and color 0.110838/0.110838/0.556684, right intercept at 579.292, depth -0.938775, and color 0.10462/0.10462/0.545473
+Assigning pixel (572, 869) with color 29, 29, 142 and depth -0.945985
+Assigning pixel (573, 869) with color 28, 28, 142 and depth -0.944996
+Assigning pixel (574, 869) with color 28, 28, 142 and depth -0.944007
+Assigning pixel (575, 869) with color 28, 28, 141 and depth -0.943019
+Assigning pixel (576, 869) with color 28, 28, 141 and depth -0.94203
+Assigning pixel (577, 869) with color 28, 28, 140 and depth -0.941041
+Assigning pixel (578, 869) with color 27, 27, 140 and depth -0.940053
+Assigning pixel (579, 869) with color 27, 27, 140 and depth -0.939064
+Scanline 870 with left intercept at 571.429, depth -0.947675, and color 0.112349/0.112349/0.559408, right intercept at 580.431, depth -0.938775, and color 0.10523/0.10523/0.546574
+Assigning pixel (572, 870) with color 29, 29, 143 and depth -0.94711
+Assigning pixel (573, 870) with color 29, 29, 143 and depth -0.946122
+Assigning pixel (574, 870) with color 29, 29, 142 and depth -0.945133
+Assigning pixel (575, 870) with color 28, 28, 142 and depth -0.944144
+Assigning pixel (576, 870) with color 28, 28, 141 and depth -0.943156
+Assigning pixel (577, 870) with color 28, 28, 141 and depth -0.942167
+Assigning pixel (578, 870) with color 28, 28, 141 and depth -0.941178
+Assigning pixel (579, 870) with color 28, 28, 140 and depth -0.94019
+Assigning pixel (580, 870) with color 27, 27, 140 and depth -0.939201
+Scanline 871 with left intercept at 571.429, depth -0.948801, and color 0.11386/0.11386/0.562132, right intercept at 581.569, depth -0.938775, and color 0.105841/0.105841/0.547674
+Assigning pixel (572, 871) with color 29, 29, 144 and depth -0.948236
+Assigning pixel (573, 871) with color 29, 29, 143 and depth -0.947247
+Assigning pixel (574, 871) with color 29, 29, 143 and depth -0.946259
+Assigning pixel (575, 871) with color 29, 29, 143 and depth -0.94527
+Assigning pixel (576, 871) with color 29, 29, 142 and depth -0.944281
+Assigning pixel (577, 871) with color 28, 28, 142 and depth -0.943293
+Assigning pixel (578, 871) with color 28, 28, 141 and depth -0.942304
+Assigning pixel (579, 871) with color 28, 28, 141 and depth -0.941316
+Assigning pixel (580, 871) with color 28, 28, 141 and depth -0.940327
+Assigning pixel (581, 871) with color 28, 28, 140 and depth -0.939338
+Scanline 872 with left intercept at 571.429, depth -0.949927, and color 0.115371/0.115371/0.564856, right intercept at 582.708, depth -0.938775, and color 0.106451/0.106451/0.548774
+Assigning pixel (572, 872) with color 30, 30, 144 and depth -0.949362
+Assigning pixel (573, 872) with color 30, 30, 144 and depth -0.948373
+Assigning pixel (574, 872) with color 29, 29, 144 and depth -0.947385
+Assigning pixel (575, 872) with color 29, 29, 143 and depth -0.946396
+Assigning pixel (576, 872) with color 29, 29, 143 and depth -0.945407
+Assigning pixel (577, 872) with color 29, 29, 143 and depth -0.944419
+Assigning pixel (578, 872) with color 29, 29, 142 and depth -0.94343
+Assigning pixel (579, 872) with color 28, 28, 142 and depth -0.942441
+Assigning pixel (580, 872) with color 28, 28, 141 and depth -0.941453
+Assigning pixel (581, 872) with color 28, 28, 141 and depth -0.940464
+Assigning pixel (582, 872) with color 28, 28, 141 and depth -0.939475
+Scanline 873 with left intercept at 571.429, depth -0.951053, and color 0.116882/0.116882/0.56758, right intercept at 583.847, depth -0.938775, and color 0.107061/0.107061/0.549875
+Assigning pixel (572, 873) with color 30, 30, 145 and depth -0.950488
+Assigning pixel (573, 873) with color 30, 30, 145 and depth -0.949499
+Assigning pixel (574, 873) with color 30, 30, 144 and depth -0.94851
+Assigning pixel (575, 873) with color 30, 30, 144 and depth -0.947522
+Assigning pixel (576, 873) with color 29, 29, 144 and depth -0.946533
+Assigning pixel (577, 873) with color 29, 29, 143 and depth -0.945544
+Assigning pixel (578, 873) with color 29, 29, 143 and depth -0.944556
+Assigning pixel (579, 873) with color 29, 29, 142 and depth -0.943567
+Assigning pixel (580, 873) with color 29, 29, 142 and depth -0.942578
+Assigning pixel (581, 873) with color 28, 28, 142 and depth -0.94159
+Assigning pixel (582, 873) with color 28, 28, 141 and depth -0.940601
+Assigning pixel (583, 873) with color 28, 28, 141 and depth -0.939612
+Scanline 874 with left intercept at 571.429, depth -0.952178, and color 0.118393/0.118393/0.570304, right intercept at 584.985, depth -0.938775, and color 0.107672/0.107672/0.550975
+Assigning pixel (572, 874) with color 31, 31, 146 and depth -0.951613
+Assigning pixel (573, 874) with color 30, 30, 145 and depth -0.950625
+Assigning pixel (574, 874) with color 30, 30, 145 and depth -0.949636
+Assigning pixel (575, 874) with color 30, 30, 145 and depth -0.948647
+Assigning pixel (576, 874) with color 30, 30, 144 and depth -0.947659
+Assigning pixel (577, 874) with color 30, 30, 144 and depth -0.94667
+Assigning pixel (578, 874) with color 29, 29, 144 and depth -0.945682
+Assigning pixel (579, 874) with color 29, 29, 143 and depth -0.944693
+Assigning pixel (580, 874) with color 29, 29, 143 and depth -0.943704
+Assigning pixel (581, 874) with color 29, 29, 142 and depth -0.942716
+Assigning pixel (582, 874) with color 29, 29, 142 and depth -0.941727
+Assigning pixel (583, 874) with color 28, 28, 142 and depth -0.940738
+Assigning pixel (584, 874) with color 28, 28, 141 and depth -0.93975
+Scanline 875 with left intercept at 571.429, depth -0.953304, and color 0.119904/0.119904/0.573028, right intercept at 586.124, depth -0.938775, and color 0.108282/0.108282/0.552076
+Assigning pixel (572, 875) with color 31, 31, 146 and depth -0.952739
+Assigning pixel (573, 875) with color 31, 31, 146 and depth -0.951751
+Assigning pixel (574, 875) with color 31, 31, 146 and depth -0.950762
+Assigning pixel (575, 875) with color 30, 30, 145 and depth -0.949773
+Assigning pixel (576, 875) with color 30, 30, 145 and depth -0.948785
+Assigning pixel (577, 875) with color 30, 30, 145 and depth -0.947796
+Assigning pixel (578, 875) with color 30, 30, 144 and depth -0.946807
+Assigning pixel (579, 875) with color 30, 30, 144 and depth -0.945819
+Assigning pixel (580, 875) with color 29, 29, 144 and depth -0.94483
+Assigning pixel (581, 875) with color 29, 29, 143 and depth -0.943841
+Assigning pixel (582, 875) with color 29, 29, 143 and depth -0.942853
+Assigning pixel (583, 875) with color 29, 29, 142 and depth -0.941864
+Assigning pixel (584, 875) with color 29, 29, 142 and depth -0.940875
+Assigning pixel (585, 875) with color 28, 28, 142 and depth -0.939887
+Assigning pixel (586, 875) with color 28, 28, 141 and depth -0.938898
+Scanline 876 with left intercept at 571.429, depth -0.95443, and color 0.121415/0.121415/0.575752, right intercept at 587.263, depth -0.938775, and color 0.108893/0.108893/0.553176
+Assigning pixel (572, 876) with color 31, 31, 147 and depth -0.953865
+Assigning pixel (573, 876) with color 31, 31, 147 and depth -0.952876
+Assigning pixel (574, 876) with color 31, 31, 146 and depth -0.951888
+Assigning pixel (575, 876) with color 31, 31, 146 and depth -0.950899
+Assigning pixel (576, 876) with color 31, 31, 146 and depth -0.94991
+Assigning pixel (577, 876) with color 30, 30, 145 and depth -0.948922
+Assigning pixel (578, 876) with color 30, 30, 145 and depth -0.947933
+Assigning pixel (579, 876) with color 30, 30, 145 and depth -0.946944
+Assigning pixel (580, 876) with color 30, 30, 144 and depth -0.945956
+Assigning pixel (581, 876) with color 30, 30, 144 and depth -0.944967
+Assigning pixel (582, 876) with color 29, 29, 143 and depth -0.943978
+Assigning pixel (583, 876) with color 29, 29, 143 and depth -0.94299
+Assigning pixel (584, 876) with color 29, 29, 143 and depth -0.942001
+Assigning pixel (585, 876) with color 29, 29, 142 and depth -0.941012
+Assigning pixel (586, 876) with color 29, 29, 142 and depth -0.940024
+Assigning pixel (587, 876) with color 28, 28, 142 and depth -0.939035
+Scanline 877 with left intercept at 571.429, depth -0.955556, and color 0.122926/0.122926/0.578476, right intercept at 588.401, depth -0.938775, and color 0.109503/0.109503/0.554277
+Assigning pixel (572, 877) with color 32, 32, 148 and depth -0.954991
+Assigning pixel (573, 877) with color 32, 32, 147 and depth -0.954002
+Assigning pixel (574, 877) with color 31, 31, 147 and depth -0.953014
+Assigning pixel (575, 877) with color 31, 31, 147 and depth -0.952025
+Assigning pixel (576, 877) with color 31, 31, 146 and depth -0.951036
+Assigning pixel (577, 877) with color 31, 31, 146 and depth -0.950048
+Assigning pixel (578, 877) with color 31, 31, 146 and depth -0.949059
+Assigning pixel (579, 877) with color 30, 30, 145 and depth -0.94807
+Assigning pixel (580, 877) with color 30, 30, 145 and depth -0.947082
+Assigning pixel (581, 877) with color 30, 30, 145 and depth -0.946093
+Assigning pixel (582, 877) with color 30, 30, 144 and depth -0.945104
+Assigning pixel (583, 877) with color 30, 30, 144 and depth -0.944116
+Assigning pixel (584, 877) with color 29, 29, 143 and depth -0.943127
+Assigning pixel (585, 877) with color 29, 29, 143 and depth -0.942138
+Assigning pixel (586, 877) with color 29, 29, 143 and depth -0.94115
+Assigning pixel (587, 877) with color 29, 29, 142 and depth -0.940161
+Assigning pixel (588, 877) with color 29, 29, 142 and depth -0.939172
+WORKING ON TRIANGLE 4
+
+
+Scanline 897 with left intercept at 550.47, depth -0.952664, and color 0.128258/0.128258/0.588089, right intercept at 551.02, depth -0.953346, and color 0.128875/0.128875/0.589202
+Assigning pixel (551, 897) with color 33, 33, 151 and depth -0.953321
+Scanline 896 with left intercept at 549.896, depth -0.95195, and color 0.127056/0.127056/0.585921, right intercept at 551.02, depth -0.953344, and color 0.128316/0.128316/0.588193
+Assigning pixel (550, 896) with color 33, 33, 150 and depth -0.952079
+Assigning pixel (551, 896) with color 33, 33, 150 and depth -0.953318
+Scanline 895 with left intercept at 549.322, depth -0.951235, and color 0.125853/0.125853/0.583752, right intercept at 551.02, depth -0.953341, and color 0.127757/0.127757/0.587185
+Assigning pixel (550, 895) with color 33, 33, 150 and depth -0.952076
+Assigning pixel (551, 895) with color 33, 33, 150 and depth -0.953316
+Scanline 894 with left intercept at 548.748, depth -0.950521, and color 0.12465/0.12465/0.581584, right intercept at 551.02, depth -0.953339, and color 0.127197/0.127197/0.586176
+Assigning pixel (549, 894) with color 32, 32, 149 and depth -0.950834
+Assigning pixel (550, 894) with color 33, 33, 149 and depth -0.952074
+Assigning pixel (551, 894) with color 33, 33, 150 and depth -0.953313
+Scanline 893 with left intercept at 548.174, depth -0.949807, and color 0.123447/0.123447/0.579416, right intercept at 551.02, depth -0.953336, and color 0.126638/0.126638/0.585168
+Assigning pixel (549, 893) with color 32, 32, 149 and depth -0.950832
+Assigning pixel (550, 893) with color 33, 33, 149 and depth -0.952071
+Assigning pixel (551, 893) with color 33, 33, 150 and depth -0.953311
+Scanline 892 with left intercept at 547.6, depth -0.949093, and color 0.122245/0.122245/0.577247, right intercept at 551.02, depth -0.953334, and color 0.126079/0.126079/0.584159
+Assigning pixel (548, 892) with color 32, 32, 148 and depth -0.949589
+Assigning pixel (549, 892) with color 32, 32, 148 and depth -0.950829
+Assigning pixel (550, 892) with color 32, 32, 149 and depth -0.952069
+Assigning pixel (551, 892) with color 33, 33, 149 and depth -0.953308
+Scanline 891 with left intercept at 547.026, depth -0.948379, and color 0.121042/0.121042/0.575079, right intercept at 551.02, depth -0.953331, and color 0.125519/0.125519/0.583151
+Assigning pixel (548, 891) with color 32, 32, 148 and depth -0.949587
+Assigning pixel (549, 891) with color 32, 32, 148 and depth -0.950827
+Assigning pixel (550, 891) with color 32, 32, 149 and depth -0.952066
+Assigning pixel (551, 891) with color 33, 33, 149 and depth -0.953306
+Scanline 890 with left intercept at 546.452, depth -0.947665, and color 0.119839/0.119839/0.572911, right intercept at 551.02, depth -0.953329, and color 0.12496/0.12496/0.582143
+Assigning pixel (547, 890) with color 31, 31, 147 and depth -0.948345
+Assigning pixel (548, 890) with color 32, 32, 147 and depth -0.949584
+Assigning pixel (549, 890) with color 32, 32, 148 and depth -0.950824
+Assigning pixel (550, 890) with color 32, 32, 148 and depth -0.952064
+Assigning pixel (551, 890) with color 32, 32, 149 and depth -0.953304
+Scanline 889 with left intercept at 545.878, depth -0.946951, and color 0.118636/0.118636/0.570742, right intercept at 551.02, depth -0.953326, and color 0.124401/0.124401/0.581134
+Assigning pixel (546, 889) with color 31, 31, 146 and depth -0.947102
+Assigning pixel (547, 889) with color 31, 31, 147 and depth -0.948342
+Assigning pixel (548, 889) with color 31, 31, 147 and depth -0.949582
+Assigning pixel (549, 889) with color 32, 32, 148 and depth -0.950822
+Assigning pixel (550, 889) with color 32, 32, 148 and depth -0.952061
+Assigning pixel (551, 889) with color 32, 32, 149 and depth -0.953301
+Scanline 888 with left intercept at 545.304, depth -0.946237, and color 0.117434/0.117434/0.568574, right intercept at 551.02, depth -0.953324, and color 0.123841/0.123841/0.580126
+Assigning pixel (546, 888) with color 31, 31, 146 and depth -0.9471
+Assigning pixel (547, 888) with color 31, 31, 146 and depth -0.94834
+Assigning pixel (548, 888) with color 31, 31, 147 and depth -0.949579
+Assigning pixel (549, 888) with color 32, 32, 147 and depth -0.950819
+Assigning pixel (550, 888) with color 32, 32, 148 and depth -0.952059
+Assigning pixel (551, 888) with color 32, 32, 148 and depth -0.953299
+Scanline 887 with left intercept at 544.73, depth -0.945523, and color 0.116231/0.116231/0.566406, right intercept at 551.02, depth -0.953322, and color 0.123282/0.123282/0.579117
+Assigning pixel (545, 887) with color 30, 30, 145 and depth -0.945858
+Assigning pixel (546, 887) with color 31, 31, 146 and depth -0.947098
+Assigning pixel (547, 887) with color 31, 31, 146 and depth -0.948337
+Assigning pixel (548, 887) with color 31, 31, 147 and depth -0.949577
+Assigning pixel (549, 887) with color 31, 31, 147 and depth -0.950817
+Assigning pixel (550, 887) with color 32, 32, 148 and depth -0.952056
+Assigning pixel (551, 887) with color 32, 32, 148 and depth -0.953296
+Scanline 886 with left intercept at 544.156, depth -0.944809, and color 0.115028/0.115028/0.564237, right intercept at 551.02, depth -0.953319, and color 0.122723/0.122723/0.578109
+Assigning pixel (545, 886) with color 30, 30, 145 and depth -0.945855
+Assigning pixel (546, 886) with color 30, 30, 145 and depth -0.947095
+Assigning pixel (547, 886) with color 31, 31, 146 and depth -0.948335
+Assigning pixel (548, 886) with color 31, 31, 146 and depth -0.949575
+Assigning pixel (549, 886) with color 31, 31, 147 and depth -0.950814
+Assigning pixel (550, 886) with color 32, 32, 147 and depth -0.952054
+Assigning pixel (551, 886) with color 32, 32, 148 and depth -0.953294
+Scanline 885 with left intercept at 543.582, depth -0.944095, and color 0.113825/0.113825/0.562069, right intercept at 551.02, depth -0.953317, and color 0.122163/0.122163/0.577101
+Assigning pixel (544, 885) with color 30, 30, 144 and depth -0.944613
+Assigning pixel (545, 885) with color 30, 30, 145 and depth -0.945853
+Assigning pixel (546, 885) with color 30, 30, 145 and depth -0.947093
+Assigning pixel (547, 885) with color 31, 31, 146 and depth -0.948332
+Assigning pixel (548, 885) with color 31, 31, 146 and depth -0.949572
+Assigning pixel (549, 885) with color 31, 31, 147 and depth -0.950812
+Assigning pixel (550, 885) with color 31, 31, 147 and depth -0.952052
+Assigning pixel (551, 885) with color 32, 32, 148 and depth -0.953291
+Scanline 884 with left intercept at 543.008, depth -0.943381, and color 0.112623/0.112623/0.559901, right intercept at 551.02, depth -0.953314, and color 0.121604/0.121604/0.576092
+Assigning pixel (544, 884) with color 30, 30, 144 and depth -0.944611
+Assigning pixel (545, 884) with color 30, 30, 144 and depth -0.94585
+Assigning pixel (546, 884) with color 30, 30, 145 and depth -0.94709
+Assigning pixel (547, 884) with color 30, 30, 145 and depth -0.94833
+Assigning pixel (548, 884) with color 31, 31, 146 and depth -0.94957
+Assigning pixel (549, 884) with color 31, 31, 146 and depth -0.950809
+Assigning pixel (550, 884) with color 31, 31, 147 and depth -0.952049
+Assigning pixel (551, 884) with color 32, 32, 147 and depth -0.953289
+Scanline 883 with left intercept at 542.434, depth -0.942666, and color 0.11142/0.11142/0.557732, right intercept at 551.02, depth -0.953312, and color 0.121044/0.121044/0.575084
+Assigning pixel (543, 883) with color 29, 29, 143 and depth -0.943369
+Assigning pixel (544, 883) with color 29, 29, 144 and depth -0.944608
+Assigning pixel (545, 883) with color 30, 30, 144 and depth -0.945848
+Assigning pixel (546, 883) with color 30, 30, 145 and depth -0.947088
+Assigning pixel (547, 883) with color 30, 30, 145 and depth -0.948327
+Assigning pixel (548, 883) with color 31, 31, 146 and depth -0.949567
+Assigning pixel (549, 883) with color 31, 31, 146 and depth -0.950807
+Assigning pixel (550, 883) with color 31, 31, 147 and depth -0.952047
+Assigning pixel (551, 883) with color 31, 31, 147 and depth -0.953286
+Scanline 882 with left intercept at 541.86, depth -0.941952, and color 0.110217/0.110217/0.555564, right intercept at 551.02, depth -0.953309, and color 0.120485/0.120485/0.574075
+Assigning pixel (542, 882) with color 29, 29, 142 and depth -0.942126
+Assigning pixel (543, 882) with color 29, 29, 143 and depth -0.943366
+Assigning pixel (544, 882) with color 29, 29, 143 and depth -0.944606
+Assigning pixel (545, 882) with color 30, 30, 144 and depth -0.945846
+Assigning pixel (546, 882) with color 30, 30, 144 and depth -0.947085
+Assigning pixel (547, 882) with color 30, 30, 145 and depth -0.948325
+Assigning pixel (548, 882) with color 30, 30, 145 and depth -0.949565
+Assigning pixel (549, 882) with color 31, 31, 146 and depth -0.950804
+Assigning pixel (550, 882) with color 31, 31, 146 and depth -0.952044
+Assigning pixel (551, 882) with color 31, 31, 147 and depth -0.953284
+Scanline 881 with left intercept at 541.286, depth -0.941238, and color 0.109014/0.109014/0.553396, right intercept at 551.02, depth -0.953307, and color 0.119926/0.119926/0.573067
+Assigning pixel (542, 881) with color 29, 29, 142 and depth -0.942124
+Assigning pixel (543, 881) with color 29, 29, 142 and depth -0.943364
+Assigning pixel (544, 881) with color 29, 29, 143 and depth -0.944603
+Assigning pixel (545, 881) with color 29, 29, 144 and depth -0.945843
+Assigning pixel (546, 881) with color 30, 30, 144 and depth -0.947083
+Assigning pixel (547, 881) with color 30, 30, 145 and depth -0.948322
+Assigning pixel (548, 881) with color 30, 30, 145 and depth -0.949562
+Assigning pixel (549, 881) with color 31, 31, 146 and depth -0.950802
+Assigning pixel (550, 881) with color 31, 31, 146 and depth -0.952042
+Assigning pixel (551, 881) with color 31, 31, 147 and depth -0.953281
+Scanline 880 with left intercept at 540.712, depth -0.940524, and color 0.107812/0.107812/0.551227, right intercept at 551.02, depth -0.953304, and color 0.119366/0.119366/0.572058
+Assigning pixel (541, 880) with color 28, 28, 141 and depth -0.940882
+Assigning pixel (542, 880) with color 28, 28, 142 and depth -0.942121
+Assigning pixel (543, 880) with color 29, 29, 142 and depth -0.943361
+Assigning pixel (544, 880) with color 29, 29, 143 and depth -0.944601
+Assigning pixel (545, 880) with color 29, 29, 143 and depth -0.945841
+Assigning pixel (546, 880) with color 30, 30, 144 and depth -0.94708
+Assigning pixel (547, 880) with color 30, 30, 144 and depth -0.94832
+Assigning pixel (548, 880) with color 30, 30, 145 and depth -0.94956
+Assigning pixel (549, 880) with color 30, 30, 145 and depth -0.950799
+Assigning pixel (550, 880) with color 31, 31, 146 and depth -0.952039
+Assigning pixel (551, 880) with color 31, 31, 146 and depth -0.953279
+Scanline 879 with left intercept at 540.138, depth -0.93981, and color 0.106609/0.106609/0.549059, right intercept at 551.02, depth -0.953302, and color 0.118807/0.118807/0.57105
+Assigning pixel (541, 879) with color 28, 28, 141 and depth -0.940879
+Assigning pixel (542, 879) with color 28, 28, 141 and depth -0.942119
+Assigning pixel (543, 879) with color 29, 29, 142 and depth -0.943359
+Assigning pixel (544, 879) with color 29, 29, 143 and depth -0.944598
+Assigning pixel (545, 879) with color 29, 29, 143 and depth -0.945838
+Assigning pixel (546, 879) with color 29, 29, 144 and depth -0.947078
+Assigning pixel (547, 879) with color 30, 30, 144 and depth -0.948318
+Assigning pixel (548, 879) with color 30, 30, 145 and depth -0.949557
+Assigning pixel (549, 879) with color 30, 30, 145 and depth -0.950797
+Assigning pixel (550, 879) with color 31, 31, 146 and depth -0.952037
+Assigning pixel (551, 879) with color 31, 31, 146 and depth -0.953276
+Scanline 878 with left intercept at 539.564, depth -0.939096, and color 0.105406/0.105406/0.546891, right intercept at 551.02, depth -0.953299, and color 0.118248/0.118248/0.570042
+Assigning pixel (540, 878) with color 28, 28, 140 and depth -0.939637
+Assigning pixel (541, 878) with color 28, 28, 141 and depth -0.940877
+Assigning pixel (542, 878) with color 28, 28, 141 and depth -0.942117
+Assigning pixel (543, 878) with color 28, 28, 142 and depth -0.943356
+Assigning pixel (544, 878) with color 29, 29, 142 and depth -0.944596
+Assigning pixel (545, 878) with color 29, 29, 143 and depth -0.945836
+Assigning pixel (546, 878) with color 29, 29, 143 and depth -0.947075
+Assigning pixel (547, 878) with color 30, 30, 144 and depth -0.948315
+Assigning pixel (548, 878) with color 30, 30, 144 and depth -0.949555
+Assigning pixel (549, 878) with color 30, 30, 145 and depth -0.950795
+Assigning pixel (550, 878) with color 30, 30, 145 and depth -0.952034
+Assigning pixel (551, 878) with color 31, 31, 146 and depth -0.953274
+WORKING ON TRIANGLE 5
+
+
+Scanline 878 with left intercept at 539.306, depth -0.938775, and color 0.105123/0.105123/0.546381, right intercept at 539.564, depth -0.939096, and color 0.105406/0.105406/0.546891
+Scanline 879 with left intercept at 539.305, depth -0.938775, and color 0.105696/0.105696/0.547413, right intercept at 540.138, depth -0.93981, and color 0.106609/0.106609/0.549059
+Assigning pixel (540, 879) with color 28, 28, 140 and depth -0.939639
+Scanline 880 with left intercept at 539.305, depth -0.938775, and color 0.106269/0.106269/0.548446, right intercept at 540.712, depth -0.940524, and color 0.107812/0.107812/0.551227
+Assigning pixel (540, 880) with color 28, 28, 141 and depth -0.939639
+Scanline 881 with left intercept at 539.305, depth -0.938775, and color 0.106842/0.106842/0.549479, right intercept at 541.286, depth -0.941238, and color 0.109014/0.109014/0.553396
+Assigning pixel (540, 881) with color 28, 28, 141 and depth -0.93964
+Assigning pixel (541, 881) with color 28, 28, 141 and depth -0.940883
+Scanline 882 with left intercept at 539.305, depth -0.938775, and color 0.107414/0.107414/0.550511, right intercept at 541.86, depth -0.941952, and color 0.110217/0.110217/0.555564
+Assigning pixel (540, 882) with color 28, 28, 141 and depth -0.93964
+Assigning pixel (541, 882) with color 28, 28, 142 and depth -0.940883
+Scanline 883 with left intercept at 539.304, depth -0.938775, and color 0.107987/0.107987/0.551544, right intercept at 542.434, depth -0.942666, and color 0.11142/0.11142/0.557732
+Assigning pixel (540, 883) with color 28, 28, 141 and depth -0.93964
+Assigning pixel (541, 883) with color 29, 29, 142 and depth -0.940884
+Assigning pixel (542, 883) with color 29, 29, 143 and depth -0.942127
+Scanline 884 with left intercept at 539.304, depth -0.938775, and color 0.10856/0.10856/0.552576, right intercept at 543.008, depth -0.943381, and color 0.112623/0.112623/0.559901
+Assigning pixel (540, 884) with color 28, 28, 142 and depth -0.939641
+Assigning pixel (541, 884) with color 29, 29, 142 and depth -0.940884
+Assigning pixel (542, 884) with color 29, 29, 143 and depth -0.942128
+Assigning pixel (543, 884) with color 29, 29, 143 and depth -0.943371
+Scanline 885 with left intercept at 539.304, depth -0.938775, and color 0.109133/0.109133/0.553609, right intercept at 543.582, depth -0.944095, and color 0.113825/0.113825/0.562069
+Assigning pixel (540, 885) with color 29, 29, 142 and depth -0.939641
+Assigning pixel (541, 885) with color 29, 29, 143 and depth -0.940885
+Assigning pixel (542, 885) with color 29, 29, 143 and depth -0.942128
+Assigning pixel (543, 885) with color 29, 29, 144 and depth -0.943371
+Scanline 886 with left intercept at 539.304, depth -0.938775, and color 0.109706/0.109706/0.554642, right intercept at 544.156, depth -0.944809, and color 0.115028/0.115028/0.564237
+Assigning pixel (540, 886) with color 29, 29, 142 and depth -0.939641
+Assigning pixel (541, 886) with color 29, 29, 143 and depth -0.940885
+Assigning pixel (542, 886) with color 29, 29, 143 and depth -0.942128
+Assigning pixel (543, 886) with color 30, 30, 144 and depth -0.943372
+Assigning pixel (544, 886) with color 30, 30, 144 and depth -0.944615
+Scanline 887 with left intercept at 539.303, depth -0.938775, and color 0.110278/0.110278/0.555674, right intercept at 544.73, depth -0.945523, and color 0.116231/0.116231/0.566406
+Assigning pixel (540, 887) with color 29, 29, 143 and depth -0.939642
+Assigning pixel (541, 887) with color 29, 29, 143 and depth -0.940885
+Assigning pixel (542, 887) with color 29, 29, 144 and depth -0.942129
+Assigning pixel (543, 887) with color 30, 30, 144 and depth -0.943372
+Assigning pixel (544, 887) with color 30, 30, 145 and depth -0.944615
+Scanline 888 with left intercept at 539.303, depth -0.938775, and color 0.110851/0.110851/0.556707, right intercept at 545.304, depth -0.946237, and color 0.117434/0.117434/0.568574
+Assigning pixel (540, 888) with color 29, 29, 143 and depth -0.939642
+Assigning pixel (541, 888) with color 29, 29, 143 and depth -0.940886
+Assigning pixel (542, 888) with color 30, 30, 144 and depth -0.942129
+Assigning pixel (543, 888) with color 30, 30, 144 and depth -0.943372
+Assigning pixel (544, 888) with color 30, 30, 145 and depth -0.944616
+Assigning pixel (545, 888) with color 30, 30, 145 and depth -0.945859
+Scanline 889 with left intercept at 539.303, depth -0.938775, and color 0.111424/0.111424/0.55774, right intercept at 545.878, depth -0.946951, and color 0.118636/0.118636/0.570742
+Assigning pixel (540, 889) with color 29, 29, 143 and depth -0.939642
+Assigning pixel (541, 889) with color 29, 29, 144 and depth -0.940886
+Assigning pixel (542, 889) with color 30, 30, 144 and depth -0.942129
+Assigning pixel (543, 889) with color 30, 30, 145 and depth -0.943373
+Assigning pixel (544, 889) with color 30, 30, 145 and depth -0.944616
+Assigning pixel (545, 889) with color 31, 31, 146 and depth -0.94586
+Scanline 890 with left intercept at 539.302, depth -0.938775, and color 0.111997/0.111997/0.558772, right intercept at 546.452, depth -0.947665, and color 0.119839/0.119839/0.572911
+Assigning pixel (540, 890) with color 29, 29, 143 and depth -0.939643
+Assigning pixel (541, 890) with color 30, 30, 144 and depth -0.940886
+Assigning pixel (542, 890) with color 30, 30, 144 and depth -0.94213
+Assigning pixel (543, 890) with color 30, 30, 145 and depth -0.943373
+Assigning pixel (544, 890) with color 30, 30, 145 and depth -0.944616
+Assigning pixel (545, 890) with color 31, 31, 146 and depth -0.94586
+Assigning pixel (546, 890) with color 31, 31, 146 and depth -0.947103
+Scanline 891 with left intercept at 539.302, depth -0.938775, and color 0.112569/0.112569/0.559805, right intercept at 547.026, depth -0.948379, and color 0.121042/0.121042/0.575079
+Assigning pixel (540, 891) with color 29, 29, 144 and depth -0.939643
+Assigning pixel (541, 891) with color 30, 30, 144 and depth -0.940887
+Assigning pixel (542, 891) with color 30, 30, 145 and depth -0.94213
+Assigning pixel (543, 891) with color 30, 30, 145 and depth -0.943373
+Assigning pixel (544, 891) with color 31, 31, 146 and depth -0.944617
+Assigning pixel (545, 891) with color 31, 31, 146 and depth -0.94586
+Assigning pixel (546, 891) with color 31, 31, 147 and depth -0.947104
+Assigning pixel (547, 891) with color 31, 31, 147 and depth -0.948347
+Scanline 892 with left intercept at 539.302, depth -0.938775, and color 0.113142/0.113142/0.560837, right intercept at 547.6, depth -0.949093, and color 0.122245/0.122245/0.577247
+Assigning pixel (540, 892) with color 30, 30, 144 and depth -0.939643
+Assigning pixel (541, 892) with color 30, 30, 144 and depth -0.940887
+Assigning pixel (542, 892) with color 30, 30, 145 and depth -0.94213
+Assigning pixel (543, 892) with color 30, 30, 145 and depth -0.943374
+Assigning pixel (544, 892) with color 31, 31, 146 and depth -0.944617
+Assigning pixel (545, 892) with color 31, 31, 146 and depth -0.945861
+Assigning pixel (546, 892) with color 31, 31, 147 and depth -0.947104
+Assigning pixel (547, 892) with color 32, 32, 147 and depth -0.948347
+Scanline 893 with left intercept at 539.302, depth -0.938775, and color 0.113715/0.113715/0.56187, right intercept at 548.174, depth -0.949807, and color 0.123447/0.123447/0.579416
+Assigning pixel (540, 893) with color 30, 30, 144 and depth -0.939644
+Assigning pixel (541, 893) with color 30, 30, 145 and depth -0.940887
+Assigning pixel (542, 893) with color 30, 30, 145 and depth -0.942131
+Assigning pixel (543, 893) with color 31, 31, 146 and depth -0.943374
+Assigning pixel (544, 893) with color 31, 31, 146 and depth -0.944617
+Assigning pixel (545, 893) with color 31, 31, 147 and depth -0.945861
+Assigning pixel (546, 893) with color 31, 31, 147 and depth -0.947104
+Assigning pixel (547, 893) with color 32, 32, 148 and depth -0.948348
+Assigning pixel (548, 893) with color 32, 32, 148 and depth -0.949591
+Scanline 894 with left intercept at 539.301, depth -0.938775, and color 0.114288/0.114288/0.562903, right intercept at 548.748, depth -0.950521, and color 0.12465/0.12465/0.581584
+Assigning pixel (540, 894) with color 30, 30, 144 and depth -0.939644
+Assigning pixel (541, 894) with color 30, 30, 145 and depth -0.940888
+Assigning pixel (542, 894) with color 30, 30, 145 and depth -0.942131
+Assigning pixel (543, 894) with color 31, 31, 146 and depth -0.943374
+Assigning pixel (544, 894) with color 31, 31, 146 and depth -0.944618
+Assigning pixel (545, 894) with color 31, 31, 147 and depth -0.945861
+Assigning pixel (546, 894) with color 32, 32, 147 and depth -0.947105
+Assigning pixel (547, 894) with color 32, 32, 148 and depth -0.948348
+Assigning pixel (548, 894) with color 32, 32, 148 and depth -0.949591
+Scanline 895 with left intercept at 539.301, depth -0.938775, and color 0.114861/0.114861/0.563935, right intercept at 549.322, depth -0.951235, and color 0.125853/0.125853/0.583752
+Assigning pixel (540, 895) with color 30, 30, 145 and depth -0.939645
+Assigning pixel (541, 895) with color 30, 30, 145 and depth -0.940888
+Assigning pixel (542, 895) with color 31, 31, 146 and depth -0.942131
+Assigning pixel (543, 895) with color 31, 31, 146 and depth -0.943375
+Assigning pixel (544, 895) with color 31, 31, 147 and depth -0.944618
+Assigning pixel (545, 895) with color 31, 31, 147 and depth -0.945862
+Assigning pixel (546, 895) with color 32, 32, 148 and depth -0.947105
+Assigning pixel (547, 895) with color 32, 32, 148 and depth -0.948348
+Assigning pixel (548, 895) with color 32, 32, 149 and depth -0.949592
+Assigning pixel (549, 895) with color 33, 33, 149 and depth -0.950835
+Scanline 896 with left intercept at 539.301, depth -0.938775, and color 0.115433/0.115433/0.564968, right intercept at 549.896, depth -0.95195, and color 0.127056/0.127056/0.585921
+Assigning pixel (540, 896) with color 30, 30, 145 and depth -0.939645
+Assigning pixel (541, 896) with color 30, 30, 145 and depth -0.940888
+Assigning pixel (542, 896) with color 31, 31, 146 and depth -0.942132
+Assigning pixel (543, 896) with color 31, 31, 146 and depth -0.943375
+Assigning pixel (544, 896) with color 31, 31, 147 and depth -0.944619
+Assigning pixel (545, 896) with color 32, 32, 147 and depth -0.945862
+Assigning pixel (546, 896) with color 32, 32, 148 and depth -0.947105
+Assigning pixel (547, 896) with color 32, 32, 148 and depth -0.948349
+Assigning pixel (548, 896) with color 32, 32, 149 and depth -0.949592
+Assigning pixel (549, 896) with color 33, 33, 149 and depth -0.950836
+Scanline 897 with left intercept at 539.3, depth -0.938775, and color 0.116006/0.116006/0.566, right intercept at 550.47, depth -0.952664, and color 0.128258/0.128258/0.588089
+Assigning pixel (540, 897) with color 30, 30, 145 and depth -0.939645
+Assigning pixel (541, 897) with color 31, 31, 146 and depth -0.940889
+Assigning pixel (542, 897) with color 31, 31, 146 and depth -0.942132
+Assigning pixel (543, 897) with color 31, 31, 147 and depth -0.943375
+Assigning pixel (544, 897) with color 31, 31, 147 and depth -0.944619
+Assigning pixel (545, 897) with color 32, 32, 148 and depth -0.945862
+Assigning pixel (546, 897) with color 32, 32, 148 and depth -0.947106
+Assigning pixel (547, 897) with color 32, 32, 149 and depth -0.948349
+Assigning pixel (548, 897) with color 33, 33, 149 and depth -0.949593
+Assigning pixel (549, 897) with color 33, 33, 150 and depth -0.950836
+Assigning pixel (550, 897) with color 33, 33, 150 and depth -0.952079
+WORKING ON TRIANGLE 6
+
+
+Scanline 897 with left intercept at 570.469, depth -0.956167, and color 0.134944/0.134944/0.600142, right intercept at 571.429, depth -0.956302, and color 0.135215/0.135215/0.60063
+Assigning pixel (571, 897) with color 35, 35, 154 and depth -0.956241
+Scanline 896 with left intercept at 569.469, depth -0.956019, and color 0.134073/0.134073/0.598571, right intercept at 571.429, depth -0.956295, and color 0.134626/0.134626/0.599568
+Assigning pixel (570, 896) with color 35, 35, 153 and depth -0.956094
+Assigning pixel (571, 896) with color 35, 35, 153 and depth -0.956235
+Scanline 895 with left intercept at 568.469, depth -0.955872, and color 0.133201/0.133201/0.597, right intercept at 571.429, depth -0.956289, and color 0.134037/0.134037/0.598506
+Assigning pixel (569, 895) with color 35, 35, 153 and depth -0.955946
+Assigning pixel (570, 895) with color 35, 35, 153 and depth -0.956087
+Assigning pixel (571, 895) with color 35, 35, 153 and depth -0.956228
+Scanline 894 with left intercept at 567.469, depth -0.955724, and color 0.13233/0.13233/0.595429, right intercept at 571.429, depth -0.956282, and color 0.133448/0.133448/0.597444
+Assigning pixel (568, 894) with color 34, 34, 152 and depth -0.955799
+Assigning pixel (569, 894) with color 34, 34, 153 and depth -0.95594
+Assigning pixel (570, 894) with color 34, 34, 153 and depth -0.956081
+Assigning pixel (571, 894) with color 34, 34, 153 and depth -0.956222
+Scanline 893 with left intercept at 566.469, depth -0.955577, and color 0.131458/0.131458/0.593858, right intercept at 571.429, depth -0.956276, and color 0.132859/0.132859/0.596382
+Assigning pixel (567, 893) with color 34, 34, 152 and depth -0.955651
+Assigning pixel (568, 893) with color 34, 34, 152 and depth -0.955792
+Assigning pixel (569, 893) with color 34, 34, 152 and depth -0.955933
+Assigning pixel (570, 893) with color 34, 34, 152 and depth -0.956075
+Assigning pixel (571, 893) with color 34, 34, 153 and depth -0.956216
+Scanline 892 with left intercept at 565.469, depth -0.955429, and color 0.130587/0.130587/0.592287, right intercept at 571.429, depth -0.95627, and color 0.13227/0.13227/0.59532
+Assigning pixel (566, 892) with color 34, 34, 152 and depth -0.955504
+Assigning pixel (567, 892) with color 34, 34, 152 and depth -0.955645
+Assigning pixel (568, 892) with color 34, 34, 152 and depth -0.955786
+Assigning pixel (569, 892) with color 34, 34, 152 and depth -0.955927
+Assigning pixel (570, 892) with color 34, 34, 152 and depth -0.956068
+Assigning pixel (571, 892) with color 34, 34, 152 and depth -0.956209
+Scanline 891 with left intercept at 564.469, depth -0.955282, and color 0.129716/0.129716/0.590716, right intercept at 571.429, depth -0.956263, and color 0.13168/0.13168/0.594259
+Assigning pixel (565, 891) with color 34, 34, 151 and depth -0.955356
+Assigning pixel (566, 891) with color 34, 34, 151 and depth -0.955498
+Assigning pixel (567, 891) with color 34, 34, 151 and depth -0.955639
+Assigning pixel (568, 891) with color 34, 34, 152 and depth -0.95578
+Assigning pixel (569, 891) with color 34, 34, 152 and depth -0.955921
+Assigning pixel (570, 891) with color 34, 34, 152 and depth -0.956062
+Assigning pixel (571, 891) with color 34, 34, 152 and depth -0.956203
+Scanline 890 with left intercept at 563.469, depth -0.955134, and color 0.128844/0.128844/0.589145, right intercept at 571.429, depth -0.956257, and color 0.131091/0.131091/0.593197
+Assigning pixel (564, 890) with color 33, 33, 151 and depth -0.955209
+Assigning pixel (565, 890) with color 33, 33, 151 and depth -0.95535
+Assigning pixel (566, 890) with color 34, 34, 151 and depth -0.955491
+Assigning pixel (567, 890) with color 34, 34, 151 and depth -0.955632
+Assigning pixel (568, 890) with color 34, 34, 151 and depth -0.955773
+Assigning pixel (569, 890) with color 34, 34, 151 and depth -0.955914
+Assigning pixel (570, 890) with color 34, 34, 152 and depth -0.956055
+Assigning pixel (571, 890) with color 34, 34, 152 and depth -0.956196
+Scanline 889 with left intercept at 562.469, depth -0.954987, and color 0.127973/0.127973/0.587574, right intercept at 571.429, depth -0.95625, and color 0.130502/0.130502/0.592135
+Assigning pixel (563, 889) with color 33, 33, 150 and depth -0.955062
+Assigning pixel (564, 889) with color 33, 33, 151 and depth -0.955203
+Assigning pixel (565, 889) with color 33, 33, 151 and depth -0.955344
+Assigning pixel (566, 889) with color 33, 33, 151 and depth -0.955485
+Assigning pixel (567, 889) with color 33, 33, 151 and depth -0.955626
+Assigning pixel (568, 889) with color 34, 34, 151 and depth -0.955767
+Assigning pixel (569, 889) with color 34, 34, 151 and depth -0.955908
+Assigning pixel (570, 889) with color 34, 34, 151 and depth -0.956049
+Assigning pixel (571, 889) with color 34, 34, 151 and depth -0.95619
+Scanline 888 with left intercept at 561.469, depth -0.954839, and color 0.127101/0.127101/0.586003, right intercept at 571.429, depth -0.956244, and color 0.129913/0.129913/0.591073
+Assigning pixel (562, 888) with color 33, 33, 150 and depth -0.954914
+Assigning pixel (563, 888) with color 33, 33, 150 and depth -0.955055
+Assigning pixel (564, 888) with color 33, 33, 150 and depth -0.955196
+Assigning pixel (565, 888) with color 33, 33, 150 and depth -0.955337
+Assigning pixel (566, 888) with color 33, 33, 151 and depth -0.955478
+Assigning pixel (567, 888) with color 33, 33, 151 and depth -0.955619
+Assigning pixel (568, 888) with color 33, 33, 151 and depth -0.95576
+Assigning pixel (569, 888) with color 33, 33, 151 and depth -0.955901
+Assigning pixel (570, 888) with color 34, 34, 151 and depth -0.956042
+Assigning pixel (571, 888) with color 34, 34, 151 and depth -0.956183
+Scanline 887 with left intercept at 560.469, depth -0.954692, and color 0.12623/0.12623/0.584433, right intercept at 571.429, depth -0.956237, and color 0.129324/0.129324/0.590011
+Assigning pixel (561, 887) with color 33, 33, 150 and depth -0.954767
+Assigning pixel (562, 887) with color 33, 33, 150 and depth -0.954908
+Assigning pixel (563, 887) with color 33, 33, 150 and depth -0.955049
+Assigning pixel (564, 887) with color 33, 33, 150 and depth -0.95519
+Assigning pixel (565, 887) with color 33, 33, 150 and depth -0.955331
+Assigning pixel (566, 887) with color 33, 33, 150 and depth -0.955472
+Assigning pixel (567, 887) with color 33, 33, 150 and depth -0.955613
+Assigning pixel (568, 887) with color 33, 33, 151 and depth -0.955754
+Assigning pixel (569, 887) with color 33, 33, 151 and depth -0.955895
+Assigning pixel (570, 887) with color 33, 33, 151 and depth -0.956036
+Assigning pixel (571, 887) with color 33, 33, 151 and depth -0.956177
+Scanline 886 with left intercept at 559.469, depth -0.954544, and color 0.125359/0.125359/0.582862, right intercept at 571.429, depth -0.956231, and color 0.128735/0.128735/0.588949
+Assigning pixel (560, 886) with color 33, 33, 149 and depth -0.954619
+Assigning pixel (561, 886) with color 33, 33, 149 and depth -0.95476
+Assigning pixel (562, 886) with color 33, 33, 149 and depth -0.954901
+Assigning pixel (563, 886) with color 33, 33, 150 and depth -0.955042
+Assigning pixel (564, 886) with color 33, 33, 150 and depth -0.955183
+Assigning pixel (565, 886) with color 33, 33, 150 and depth -0.955324
+Assigning pixel (566, 886) with color 33, 33, 150 and depth -0.955465
+Assigning pixel (567, 886) with color 33, 33, 150 and depth -0.955606
+Assigning pixel (568, 886) with color 33, 33, 150 and depth -0.955747
+Assigning pixel (569, 886) with color 33, 33, 150 and depth -0.955888
+Assigning pixel (570, 886) with color 33, 33, 150 and depth -0.956029
+Assigning pixel (571, 886) with color 33, 33, 151 and depth -0.95617
+Scanline 885 with left intercept at 558.469, depth -0.954397, and color 0.124487/0.124487/0.581291, right intercept at 571.429, depth -0.956224, and color 0.128146/0.128146/0.587887
+Assigning pixel (559, 885) with color 32, 32, 149 and depth -0.954472
+Assigning pixel (560, 885) with color 32, 32, 149 and depth -0.954613
+Assigning pixel (561, 885) with color 32, 32, 149 and depth -0.954754
+Assigning pixel (562, 885) with color 32, 32, 149 and depth -0.954895
+Assigning pixel (563, 885) with color 33, 33, 149 and depth -0.955036
+Assigning pixel (564, 885) with color 33, 33, 149 and depth -0.955177
+Assigning pixel (565, 885) with color 33, 33, 150 and depth -0.955318
+Assigning pixel (566, 885) with color 33, 33, 150 and depth -0.955459
+Assigning pixel (567, 885) with color 33, 33, 150 and depth -0.9556
+Assigning pixel (568, 885) with color 33, 33, 150 and depth -0.955741
+Assigning pixel (569, 885) with color 33, 33, 150 and depth -0.955882
+Assigning pixel (570, 885) with color 33, 33, 150 and depth -0.956023
+Assigning pixel (571, 885) with color 33, 33, 150 and depth -0.956164
+Scanline 884 with left intercept at 557.469, depth -0.954249, and color 0.123616/0.123616/0.57972, right intercept at 571.429, depth -0.956218, and color 0.127557/0.127557/0.586825
+Assigning pixel (558, 884) with color 32, 32, 148 and depth -0.954324
+Assigning pixel (559, 884) with color 32, 32, 149 and depth -0.954465
+Assigning pixel (560, 884) with color 32, 32, 149 and depth -0.954606
+Assigning pixel (561, 884) with color 32, 32, 149 and depth -0.954747
+Assigning pixel (562, 884) with color 32, 32, 149 and depth -0.954888
+Assigning pixel (563, 884) with color 32, 32, 149 and depth -0.955029
+Assigning pixel (564, 884) with color 32, 32, 149 and depth -0.95517
+Assigning pixel (565, 884) with color 33, 33, 149 and depth -0.955311
+Assigning pixel (566, 884) with color 33, 33, 149 and depth -0.955452
+Assigning pixel (567, 884) with color 33, 33, 150 and depth -0.955593
+Assigning pixel (568, 884) with color 33, 33, 150 and depth -0.955734
+Assigning pixel (569, 884) with color 33, 33, 150 and depth -0.955875
+Assigning pixel (570, 884) with color 33, 33, 150 and depth -0.956016
+Assigning pixel (571, 884) with color 33, 33, 150 and depth -0.956157
+Scanline 883 with left intercept at 556.469, depth -0.954102, and color 0.122745/0.122745/0.578149, right intercept at 571.429, depth -0.956211, and color 0.126968/0.126968/0.585763
+Assigning pixel (557, 883) with color 32, 32, 148 and depth -0.954177
+Assigning pixel (558, 883) with color 32, 32, 148 and depth -0.954318
+Assigning pixel (559, 883) with color 32, 32, 148 and depth -0.954459
+Assigning pixel (560, 883) with color 32, 32, 148 and depth -0.9546
+Assigning pixel (561, 883) with color 32, 32, 149 and depth -0.954741
+Assigning pixel (562, 883) with color 32, 32, 149 and depth -0.954882
+Assigning pixel (563, 883) with color 32, 32, 149 and depth -0.955023
+Assigning pixel (564, 883) with color 32, 32, 149 and depth -0.955164
+Assigning pixel (565, 883) with color 32, 32, 149 and depth -0.955305
+Assigning pixel (566, 883) with color 32, 32, 149 and depth -0.955446
+Assigning pixel (567, 883) with color 33, 33, 149 and depth -0.955587
+Assigning pixel (568, 883) with color 33, 33, 149 and depth -0.955728
+Assigning pixel (569, 883) with color 33, 33, 150 and depth -0.955869
+Assigning pixel (570, 883) with color 33, 33, 150 and depth -0.95601
+Assigning pixel (571, 883) with color 33, 33, 150 and depth -0.956151
+Scanline 882 with left intercept at 555.469, depth -0.953954, and color 0.121873/0.121873/0.576578, right intercept at 571.429, depth -0.956205, and color 0.126379/0.126379/0.584701
+Assigning pixel (556, 882) with color 32, 32, 148 and depth -0.954029
+Assigning pixel (557, 882) with color 32, 32, 148 and depth -0.95417
+Assigning pixel (558, 882) with color 32, 32, 148 and depth -0.954311
+Assigning pixel (559, 882) with color 32, 32, 148 and depth -0.954452
+Assigning pixel (560, 882) with color 32, 32, 148 and depth -0.954593
+Assigning pixel (561, 882) with color 32, 32, 148 and depth -0.954734
+Assigning pixel (562, 882) with color 32, 32, 148 and depth -0.954875
+Assigning pixel (563, 882) with color 32, 32, 149 and depth -0.955016
+Assigning pixel (564, 882) with color 32, 32, 149 and depth -0.955157
+Assigning pixel (565, 882) with color 32, 32, 149 and depth -0.955298
+Assigning pixel (566, 882) with color 32, 32, 149 and depth -0.955439
+Assigning pixel (567, 882) with color 32, 32, 149 and depth -0.95558
+Assigning pixel (568, 882) with color 32, 32, 149 and depth -0.955721
+Assigning pixel (569, 882) with color 33, 33, 149 and depth -0.955862
+Assigning pixel (570, 882) with color 33, 33, 149 and depth -0.956003
+Assigning pixel (571, 882) with color 33, 33, 150 and depth -0.956144
+Scanline 881 with left intercept at 554.469, depth -0.953807, and color 0.121002/0.121002/0.575007, right intercept at 571.429, depth -0.956198, and color 0.12579/0.12579/0.583639
+Assigning pixel (555, 881) with color 31, 31, 147 and depth -0.953882
+Assigning pixel (556, 881) with color 31, 31, 147 and depth -0.954023
+Assigning pixel (557, 881) with color 32, 32, 147 and depth -0.954164
+Assigning pixel (558, 881) with color 32, 32, 148 and depth -0.954305
+Assigning pixel (559, 881) with color 32, 32, 148 and depth -0.954446
+Assigning pixel (560, 881) with color 32, 32, 148 and depth -0.954587
+Assigning pixel (561, 881) with color 32, 32, 148 and depth -0.954728
+Assigning pixel (562, 881) with color 32, 32, 148 and depth -0.954869
+Assigning pixel (563, 881) with color 32, 32, 148 and depth -0.95501
+Assigning pixel (564, 881) with color 32, 32, 148 and depth -0.955151
+Assigning pixel (565, 881) with color 32, 32, 148 and depth -0.955292
+Assigning pixel (566, 881) with color 32, 32, 149 and depth -0.955433
+Assigning pixel (567, 881) with color 32, 32, 149 and depth -0.955574
+Assigning pixel (568, 881) with color 32, 32, 149 and depth -0.955715
+Assigning pixel (569, 881) with color 32, 32, 149 and depth -0.955856
+Assigning pixel (570, 881) with color 32, 32, 149 and depth -0.955997
+Assigning pixel (571, 881) with color 33, 33, 149 and depth -0.956138
+Scanline 880 with left intercept at 553.469, depth -0.953659, and color 0.12013/0.12013/0.573436, right intercept at 571.429, depth -0.956192, and color 0.125201/0.125201/0.582577
+Assigning pixel (554, 880) with color 31, 31, 147 and depth -0.953734
+Assigning pixel (555, 880) with color 31, 31, 147 and depth -0.953875
+Assigning pixel (556, 880) with color 31, 31, 147 and depth -0.954016
+Assigning pixel (557, 880) with color 31, 31, 147 and depth -0.954157
+Assigning pixel (558, 880) with color 31, 31, 147 and depth -0.954298
+Assigning pixel (559, 880) with color 32, 32, 147 and depth -0.954439
+Assigning pixel (560, 880) with color 32, 32, 148 and depth -0.95458
+Assigning pixel (561, 880) with color 32, 32, 148 and depth -0.954721
+Assigning pixel (562, 880) with color 32, 32, 148 and depth -0.954862
+Assigning pixel (563, 880) with color 32, 32, 148 and depth -0.955003
+Assigning pixel (564, 880) with color 32, 32, 148 and depth -0.955144
+Assigning pixel (565, 880) with color 32, 32, 148 and depth -0.955285
+Assigning pixel (566, 880) with color 32, 32, 148 and depth -0.955426
+Assigning pixel (567, 880) with color 32, 32, 148 and depth -0.955567
+Assigning pixel (568, 880) with color 32, 32, 149 and depth -0.955708
+Assigning pixel (569, 880) with color 32, 32, 149 and depth -0.95585
+Assigning pixel (570, 880) with color 32, 32, 149 and depth -0.955991
+Assigning pixel (571, 880) with color 32, 32, 149 and depth -0.956132
+Scanline 879 with left intercept at 552.469, depth -0.953512, and color 0.119259/0.119259/0.571865, right intercept at 571.429, depth -0.956186, and color 0.124612/0.124612/0.581515
+Assigning pixel (553, 879) with color 31, 31, 146 and depth -0.953587
+Assigning pixel (554, 879) with color 31, 31, 147 and depth -0.953728
+Assigning pixel (555, 879) with color 31, 31, 147 and depth -0.953869
+Assigning pixel (556, 879) with color 31, 31, 147 and depth -0.95401
+Assigning pixel (557, 879) with color 31, 31, 147 and depth -0.954151
+Assigning pixel (558, 879) with color 31, 31, 147 and depth -0.954292
+Assigning pixel (559, 879) with color 31, 31, 147 and depth -0.954433
+Assigning pixel (560, 879) with color 31, 31, 147 and depth -0.954574
+Assigning pixel (561, 879) with color 32, 32, 147 and depth -0.954715
+Assigning pixel (562, 879) with color 32, 32, 148 and depth -0.954856
+Assigning pixel (563, 879) with color 32, 32, 148 and depth -0.954997
+Assigning pixel (564, 879) with color 32, 32, 148 and depth -0.955138
+Assigning pixel (565, 879) with color 32, 32, 148 and depth -0.955279
+Assigning pixel (566, 879) with color 32, 32, 148 and depth -0.95542
+Assigning pixel (567, 879) with color 32, 32, 148 and depth -0.955561
+Assigning pixel (568, 879) with color 32, 32, 148 and depth -0.955702
+Assigning pixel (569, 879) with color 32, 32, 148 and depth -0.955843
+Assigning pixel (570, 879) with color 32, 32, 149 and depth -0.955984
+Assigning pixel (571, 879) with color 32, 32, 149 and depth -0.956125
+Scanline 878 with left intercept at 551.469, depth -0.953364, and color 0.118388/0.118388/0.570294, right intercept at 571.429, depth -0.956179, and color 0.124023/0.124023/0.580454
+Assigning pixel (552, 878) with color 31, 31, 146 and depth -0.953439
+Assigning pixel (553, 878) with color 31, 31, 146 and depth -0.95358
+Assigning pixel (554, 878) with color 31, 31, 146 and depth -0.953721
+Assigning pixel (555, 878) with color 31, 31, 146 and depth -0.953862
+Assigning pixel (556, 878) with color 31, 31, 147 and depth -0.954003
+Assigning pixel (557, 878) with color 31, 31, 147 and depth -0.954144
+Assigning pixel (558, 878) with color 31, 31, 147 and depth -0.954285
+Assigning pixel (559, 878) with color 31, 31, 147 and depth -0.954426
+Assigning pixel (560, 878) with color 31, 31, 147 and depth -0.954567
+Assigning pixel (561, 878) with color 31, 31, 147 and depth -0.954708
+Assigning pixel (562, 878) with color 31, 31, 147 and depth -0.954849
+Assigning pixel (563, 878) with color 32, 32, 147 and depth -0.95499
+Assigning pixel (564, 878) with color 32, 32, 148 and depth -0.955131
+Assigning pixel (565, 878) with color 32, 32, 148 and depth -0.955273
+Assigning pixel (566, 878) with color 32, 32, 148 and depth -0.955414
+Assigning pixel (567, 878) with color 32, 32, 148 and depth -0.955555
+Assigning pixel (568, 878) with color 32, 32, 148 and depth -0.955696
+Assigning pixel (569, 878) with color 32, 32, 148 and depth -0.955837
+Assigning pixel (570, 878) with color 32, 32, 148 and depth -0.955978
+Assigning pixel (571, 878) with color 32, 32, 148 and depth -0.956119
+WORKING ON TRIANGLE 7
+
+
+Scanline 878 with left intercept at 551.02, depth -0.953299, and color 0.118248/0.118248/0.570042, right intercept at 551.469, depth -0.953364, and color 0.118388/0.118388/0.570294
+Scanline 879 with left intercept at 551.02, depth -0.953302, and color 0.118807/0.118807/0.57105, right intercept at 552.469, depth -0.953512, and color 0.119259/0.119259/0.571865
+Assigning pixel (552, 879) with color 31, 31, 146 and depth -0.953444
+Scanline 880 with left intercept at 551.02, depth -0.953304, and color 0.119366/0.119366/0.572058, right intercept at 553.469, depth -0.953659, and color 0.12013/0.12013/0.573436
+Assigning pixel (552, 880) with color 31, 31, 147 and depth -0.953446
+Assigning pixel (553, 880) with color 31, 31, 147 and depth -0.953591
+Scanline 881 with left intercept at 551.02, depth -0.953307, and color 0.119926/0.119926/0.573067, right intercept at 554.469, depth -0.953807, and color 0.121002/0.121002/0.575007
+Assigning pixel (552, 881) with color 31, 31, 147 and depth -0.953449
+Assigning pixel (553, 881) with color 31, 31, 147 and depth -0.953594
+Assigning pixel (554, 881) with color 31, 31, 147 and depth -0.953739
+Scanline 882 with left intercept at 551.02, depth -0.953309, and color 0.120485/0.120485/0.574075, right intercept at 555.469, depth -0.953954, and color 0.121873/0.121873/0.576578
+Assigning pixel (552, 882) with color 31, 31, 147 and depth -0.953451
+Assigning pixel (553, 882) with color 31, 31, 147 and depth -0.953596
+Assigning pixel (554, 882) with color 31, 31, 147 and depth -0.953741
+Assigning pixel (555, 882) with color 32, 32, 147 and depth -0.953886
+Scanline 883 with left intercept at 551.02, depth -0.953312, and color 0.121044/0.121044/0.575084, right intercept at 556.469, depth -0.954102, and color 0.122745/0.122745/0.578149
+Assigning pixel (552, 883) with color 31, 31, 147 and depth -0.953454
+Assigning pixel (553, 883) with color 32, 32, 147 and depth -0.953599
+Assigning pixel (554, 883) with color 32, 32, 148 and depth -0.953744
+Assigning pixel (555, 883) with color 32, 32, 148 and depth -0.953889
+Assigning pixel (556, 883) with color 32, 32, 148 and depth -0.954034
+Scanline 884 with left intercept at 551.02, depth -0.953314, and color 0.121604/0.121604/0.576092, right intercept at 557.469, depth -0.954249, and color 0.123616/0.123616/0.57972
+Assigning pixel (552, 884) with color 32, 32, 148 and depth -0.953456
+Assigning pixel (553, 884) with color 32, 32, 148 and depth -0.953601
+Assigning pixel (554, 884) with color 32, 32, 148 and depth -0.953746
+Assigning pixel (555, 884) with color 32, 32, 148 and depth -0.953891
+Assigning pixel (556, 884) with color 32, 32, 148 and depth -0.954036
+Assigning pixel (557, 884) with color 32, 32, 148 and depth -0.954181
+Scanline 885 with left intercept at 551.02, depth -0.953317, and color 0.122163/0.122163/0.577101, right intercept at 558.469, depth -0.954397, and color 0.124487/0.124487/0.581291
+Assigning pixel (552, 885) with color 32, 32, 148 and depth -0.953459
+Assigning pixel (553, 885) with color 32, 32, 148 and depth -0.953604
+Assigning pixel (554, 885) with color 32, 32, 148 and depth -0.953749
+Assigning pixel (555, 885) with color 32, 32, 148 and depth -0.953894
+Assigning pixel (556, 885) with color 32, 32, 148 and depth -0.954039
+Assigning pixel (557, 885) with color 32, 32, 149 and depth -0.954184
+Assigning pixel (558, 885) with color 32, 32, 149 and depth -0.954329
+Scanline 886 with left intercept at 551.02, depth -0.953319, and color 0.122723/0.122723/0.578109, right intercept at 559.469, depth -0.954544, and color 0.125359/0.125359/0.582862
+Assigning pixel (552, 886) with color 32, 32, 148 and depth -0.953461
+Assigning pixel (553, 886) with color 32, 32, 148 and depth -0.953606
+Assigning pixel (554, 886) with color 32, 32, 148 and depth -0.953751
+Assigning pixel (555, 886) with color 32, 32, 148 and depth -0.953896
+Assigning pixel (556, 886) with color 32, 32, 149 and depth -0.954041
+Assigning pixel (557, 886) with color 32, 32, 149 and depth -0.954186
+Assigning pixel (558, 886) with color 32, 32, 149 and depth -0.954331
+Assigning pixel (559, 886) with color 32, 32, 149 and depth -0.954476
+Scanline 887 with left intercept at 551.02, depth -0.953322, and color 0.123282/0.123282/0.579117, right intercept at 560.469, depth -0.954692, and color 0.12623/0.12623/0.584433
+Assigning pixel (552, 887) with color 32, 32, 148 and depth -0.953464
+Assigning pixel (553, 887) with color 32, 32, 148 and depth -0.953609
+Assigning pixel (554, 887) with color 32, 32, 149 and depth -0.953754
+Assigning pixel (555, 887) with color 32, 32, 149 and depth -0.953899
+Assigning pixel (556, 887) with color 32, 32, 149 and depth -0.954044
+Assigning pixel (557, 887) with color 32, 32, 149 and depth -0.954189
+Assigning pixel (558, 887) with color 32, 32, 149 and depth -0.954334
+Assigning pixel (559, 887) with color 33, 33, 149 and depth -0.954479
+Assigning pixel (560, 887) with color 33, 33, 149 and depth -0.954624
+Scanline 888 with left intercept at 551.02, depth -0.953324, and color 0.123841/0.123841/0.580126, right intercept at 561.469, depth -0.954839, and color 0.127101/0.127101/0.586003
+Assigning pixel (552, 888) with color 32, 32, 149 and depth -0.953466
+Assigning pixel (553, 888) with color 32, 32, 149 and depth -0.953611
+Assigning pixel (554, 888) with color 32, 32, 149 and depth -0.953756
+Assigning pixel (555, 888) with color 32, 32, 149 and depth -0.953901
+Assigning pixel (556, 888) with color 32, 32, 149 and depth -0.954046
+Assigning pixel (557, 888) with color 33, 33, 149 and depth -0.954191
+Assigning pixel (558, 888) with color 33, 33, 149 and depth -0.954336
+Assigning pixel (559, 888) with color 33, 33, 150 and depth -0.954481
+Assigning pixel (560, 888) with color 33, 33, 150 and depth -0.954626
+Assigning pixel (561, 888) with color 33, 33, 150 and depth -0.954771
+Scanline 889 with left intercept at 551.02, depth -0.953326, and color 0.124401/0.124401/0.581134, right intercept at 562.469, depth -0.954987, and color 0.127973/0.127973/0.587574
+Assigning pixel (552, 889) with color 32, 32, 149 and depth -0.953468
+Assigning pixel (553, 889) with color 32, 32, 149 and depth -0.953613
+Assigning pixel (554, 889) with color 32, 32, 149 and depth -0.953759
+Assigning pixel (555, 889) with color 33, 33, 149 and depth -0.953904
+Assigning pixel (556, 889) with color 33, 33, 149 and depth -0.954049
+Assigning pixel (557, 889) with color 33, 33, 150 and depth -0.954194
+Assigning pixel (558, 889) with color 33, 33, 150 and depth -0.954339
+Assigning pixel (559, 889) with color 33, 33, 150 and depth -0.954484
+Assigning pixel (560, 889) with color 33, 33, 150 and depth -0.954629
+Assigning pixel (561, 889) with color 33, 33, 150 and depth -0.954774
+Assigning pixel (562, 889) with color 33, 33, 150 and depth -0.954919
+Scanline 890 with left intercept at 551.02, depth -0.953329, and color 0.12496/0.12496/0.582143, right intercept at 563.469, depth -0.955134, and color 0.128844/0.128844/0.589145
+Assigning pixel (552, 890) with color 32, 32, 149 and depth -0.953471
+Assigning pixel (553, 890) with color 33, 33, 149 and depth -0.953616
+Assigning pixel (554, 890) with color 33, 33, 149 and depth -0.953761
+Assigning pixel (555, 890) with color 33, 33, 150 and depth -0.953906
+Assigning pixel (556, 890) with color 33, 33, 150 and depth -0.954051
+Assigning pixel (557, 890) with color 33, 33, 150 and depth -0.954196
+Assigning pixel (558, 890) with color 33, 33, 150 and depth -0.954341
+Assigning pixel (559, 890) with color 33, 33, 150 and depth -0.954486
+Assigning pixel (560, 890) with color 33, 33, 150 and depth -0.954631
+Assigning pixel (561, 890) with color 33, 33, 150 and depth -0.954776
+Assigning pixel (562, 890) with color 33, 33, 151 and depth -0.954921
+Assigning pixel (563, 890) with color 33, 33, 151 and depth -0.955066
+Scanline 891 with left intercept at 551.02, depth -0.953331, and color 0.125519/0.125519/0.583151, right intercept at 564.469, depth -0.955282, and color 0.129716/0.129716/0.590716
+Assigning pixel (552, 891) with color 33, 33, 149 and depth -0.953473
+Assigning pixel (553, 891) with color 33, 33, 149 and depth -0.953618
+Assigning pixel (554, 891) with color 33, 33, 150 and depth -0.953763
+Assigning pixel (555, 891) with color 33, 33, 150 and depth -0.953908
+Assigning pixel (556, 891) with color 33, 33, 150 and depth -0.954053
+Assigning pixel (557, 891) with color 33, 33, 150 and depth -0.954198
+Assigning pixel (558, 891) with color 33, 33, 150 and depth -0.954344
+Assigning pixel (559, 891) with color 33, 33, 150 and depth -0.954489
+Assigning pixel (560, 891) with color 33, 33, 150 and depth -0.954634
+Assigning pixel (561, 891) with color 33, 33, 151 and depth -0.954779
+Assigning pixel (562, 891) with color 33, 33, 151 and depth -0.954924
+Assigning pixel (563, 891) with color 33, 33, 151 and depth -0.955069
+Assigning pixel (564, 891) with color 34, 34, 151 and depth -0.955214
+Scanline 892 with left intercept at 551.02, depth -0.953334, and color 0.126079/0.126079/0.584159, right intercept at 565.469, depth -0.955429, and color 0.130587/0.130587/0.592287
+Assigning pixel (552, 892) with color 33, 33, 150 and depth -0.953476
+Assigning pixel (553, 892) with color 33, 33, 150 and depth -0.953621
+Assigning pixel (554, 892) with color 33, 33, 150 and depth -0.953766
+Assigning pixel (555, 892) with color 33, 33, 150 and depth -0.953911
+Assigning pixel (556, 892) with color 33, 33, 150 and depth -0.954056
+Assigning pixel (557, 892) with color 33, 33, 150 and depth -0.954201
+Assigning pixel (558, 892) with color 33, 33, 150 and depth -0.954346
+Assigning pixel (559, 892) with color 33, 33, 151 and depth -0.954491
+Assigning pixel (560, 892) with color 33, 33, 151 and depth -0.954636
+Assigning pixel (561, 892) with color 33, 33, 151 and depth -0.954781
+Assigning pixel (562, 892) with color 34, 34, 151 and depth -0.954926
+Assigning pixel (563, 892) with color 34, 34, 151 and depth -0.955071
+Assigning pixel (564, 892) with color 34, 34, 151 and depth -0.955216
+Assigning pixel (565, 892) with color 34, 34, 151 and depth -0.955361
+Scanline 893 with left intercept at 551.02, depth -0.953336, and color 0.126638/0.126638/0.585168, right intercept at 566.469, depth -0.955577, and color 0.131458/0.131458/0.593858
+Assigning pixel (552, 893) with color 33, 33, 150 and depth -0.953478
+Assigning pixel (553, 893) with color 33, 33, 150 and depth -0.953623
+Assigning pixel (554, 893) with color 33, 33, 150 and depth -0.953768
+Assigning pixel (555, 893) with color 33, 33, 150 and depth -0.953913
+Assigning pixel (556, 893) with color 33, 33, 150 and depth -0.954058
+Assigning pixel (557, 893) with color 33, 33, 151 and depth -0.954203
+Assigning pixel (558, 893) with color 33, 33, 151 and depth -0.954348
+Assigning pixel (559, 893) with color 33, 33, 151 and depth -0.954493
+Assigning pixel (560, 893) with color 34, 34, 151 and depth -0.954638
+Assigning pixel (561, 893) with color 34, 34, 151 and depth -0.954783
+Assigning pixel (562, 893) with color 34, 34, 151 and depth -0.954928
+Assigning pixel (563, 893) with color 34, 34, 151 and depth -0.955074
+Assigning pixel (564, 893) with color 34, 34, 152 and depth -0.955219
+Assigning pixel (565, 893) with color 34, 34, 152 and depth -0.955364
+Assigning pixel (566, 893) with color 34, 34, 152 and depth -0.955509
+Scanline 894 with left intercept at 551.02, depth -0.953339, and color 0.127197/0.127197/0.586176, right intercept at 567.469, depth -0.955724, and color 0.13233/0.13233/0.595429
+Assigning pixel (552, 894) with color 33, 33, 150 and depth -0.953481
+Assigning pixel (553, 894) with color 33, 33, 150 and depth -0.953626
+Assigning pixel (554, 894) with color 33, 33, 150 and depth -0.953771
+Assigning pixel (555, 894) with color 33, 33, 151 and depth -0.953916
+Assigning pixel (556, 894) with color 33, 33, 151 and depth -0.954061
+Assigning pixel (557, 894) with color 33, 33, 151 and depth -0.954206
+Assigning pixel (558, 894) with color 33, 33, 151 and depth -0.954351
+Assigning pixel (559, 894) with color 34, 34, 151 and depth -0.954496
+Assigning pixel (560, 894) with color 34, 34, 151 and depth -0.954641
+Assigning pixel (561, 894) with color 34, 34, 151 and depth -0.954786
+Assigning pixel (562, 894) with color 34, 34, 152 and depth -0.954931
+Assigning pixel (563, 894) with color 34, 34, 152 and depth -0.955076
+Assigning pixel (564, 894) with color 34, 34, 152 and depth -0.955221
+Assigning pixel (565, 894) with color 34, 34, 152 and depth -0.955366
+Assigning pixel (566, 894) with color 34, 34, 152 and depth -0.955511
+Assigning pixel (567, 894) with color 34, 34, 152 and depth -0.955656
+Scanline 895 with left intercept at 551.02, depth -0.953341, and color 0.127757/0.127757/0.587185, right intercept at 568.469, depth -0.955872, and color 0.133201/0.133201/0.597
+Assigning pixel (552, 895) with color 33, 33, 150 and depth -0.953483
+Assigning pixel (553, 895) with color 33, 33, 151 and depth -0.953628
+Assigning pixel (554, 895) with color 33, 33, 151 and depth -0.953773
+Assigning pixel (555, 895) with color 33, 33, 151 and depth -0.953918
+Assigning pixel (556, 895) with color 33, 33, 151 and depth -0.954063
+Assigning pixel (557, 895) with color 34, 34, 151 and depth -0.954208
+Assigning pixel (558, 895) with color 34, 34, 151 and depth -0.954353
+Assigning pixel (559, 895) with color 34, 34, 151 and depth -0.954498
+Assigning pixel (560, 895) with color 34, 34, 152 and depth -0.954643
+Assigning pixel (561, 895) with color 34, 34, 152 and depth -0.954788
+Assigning pixel (562, 895) with color 34, 34, 152 and depth -0.954933
+Assigning pixel (563, 895) with color 34, 34, 152 and depth -0.955078
+Assigning pixel (564, 895) with color 34, 34, 152 and depth -0.955223
+Assigning pixel (565, 895) with color 34, 34, 152 and depth -0.955368
+Assigning pixel (566, 895) with color 34, 34, 152 and depth -0.955513
+Assigning pixel (567, 895) with color 34, 34, 153 and depth -0.955659
+Assigning pixel (568, 895) with color 34, 34, 153 and depth -0.955804
+Scanline 896 with left intercept at 551.02, depth -0.953344, and color 0.128316/0.128316/0.588193, right intercept at 569.469, depth -0.956019, and color 0.134073/0.134073/0.598571
+Assigning pixel (552, 896) with color 33, 33, 151 and depth -0.953486
+Assigning pixel (553, 896) with color 33, 33, 151 and depth -0.953631
+Assigning pixel (554, 896) with color 33, 33, 151 and depth -0.953776
+Assigning pixel (555, 896) with color 34, 34, 151 and depth -0.953921
+Assigning pixel (556, 896) with color 34, 34, 151 and depth -0.954066
+Assigning pixel (557, 896) with color 34, 34, 151 and depth -0.954211
+Assigning pixel (558, 896) with color 34, 34, 151 and depth -0.954356
+Assigning pixel (559, 896) with color 34, 34, 152 and depth -0.954501
+Assigning pixel (560, 896) with color 34, 34, 152 and depth -0.954646
+Assigning pixel (561, 896) with color 34, 34, 152 and depth -0.954791
+Assigning pixel (562, 896) with color 34, 34, 152 and depth -0.954936
+Assigning pixel (563, 896) with color 34, 34, 152 and depth -0.955081
+Assigning pixel (564, 896) with color 34, 34, 152 and depth -0.955226
+Assigning pixel (565, 896) with color 34, 34, 152 and depth -0.955371
+Assigning pixel (566, 896) with color 34, 34, 153 and depth -0.955516
+Assigning pixel (567, 896) with color 34, 34, 153 and depth -0.955661
+Assigning pixel (568, 896) with color 35, 35, 153 and depth -0.955806
+Assigning pixel (569, 896) with color 35, 35, 153 and depth -0.955951
+Scanline 897 with left intercept at 551.02, depth -0.953346, and color 0.128875/0.128875/0.589202, right intercept at 570.469, depth -0.956167, and color 0.134944/0.134944/0.600142
+Assigning pixel (552, 897) with color 33, 33, 151 and depth -0.953488
+Assigning pixel (553, 897) with color 34, 34, 151 and depth -0.953633
+Assigning pixel (554, 897) with color 34, 34, 151 and depth -0.953778
+Assigning pixel (555, 897) with color 34, 34, 151 and depth -0.953923
+Assigning pixel (556, 897) with color 34, 34, 151 and depth -0.954068
+Assigning pixel (557, 897) with color 34, 34, 152 and depth -0.954213
+Assigning pixel (558, 897) with color 34, 34, 152 and depth -0.954358
+Assigning pixel (559, 897) with color 34, 34, 152 and depth -0.954503
+Assigning pixel (560, 897) with color 34, 34, 152 and depth -0.954648
+Assigning pixel (561, 897) with color 34, 34, 152 and depth -0.954793
+Assigning pixel (562, 897) with color 34, 34, 152 and depth -0.954938
+Assigning pixel (563, 897) with color 34, 34, 152 and depth -0.955083
+Assigning pixel (564, 897) with color 34, 34, 153 and depth -0.955228
+Assigning pixel (565, 897) with color 34, 34, 153 and depth -0.955373
+Assigning pixel (566, 897) with color 35, 35, 153 and depth -0.955518
+Assigning pixel (567, 897) with color 35, 35, 153 and depth -0.955663
+Assigning pixel (568, 897) with color 35, 35, 153 and depth -0.955808
+Assigning pixel (569, 897) with color 35, 35, 153 and depth -0.955953
+Assigning pixel (570, 897) with color 35, 35, 153 and depth -0.956098
+WORKING ON TRIANGLE 8
+
+
+Scanline 897 with left intercept at 588.448, depth -0.939593, and color 0.123639/0.123639/0.579761, right intercept at 589.275, depth -0.938775, and color 0.122985/0.122985/0.578581
+Assigning pixel (589, 897) with color 32, 32, 148 and depth -0.939048
+Scanline 896 with left intercept at 587.573, depth -0.940446, and color 0.123645/0.123645/0.579772, right intercept at 589.263, depth -0.938775, and color 0.122309/0.122309/0.577363
+Assigning pixel (588, 896) with color 32, 32, 148 and depth -0.940024
+Assigning pixel (589, 896) with color 32, 32, 148 and depth -0.939035
+Scanline 895 with left intercept at 586.698, depth -0.941298, and color 0.123651/0.123651/0.579783, right intercept at 589.25, depth -0.938775, and color 0.121633/0.121633/0.576145
+Assigning pixel (587, 895) with color 32, 32, 148 and depth -0.941
+Assigning pixel (588, 895) with color 32, 32, 148 and depth -0.940011
+Assigning pixel (589, 895) with color 32, 32, 148 and depth -0.939023
+Scanline 894 with left intercept at 585.823, depth -0.942151, and color 0.123657/0.123657/0.579794, right intercept at 589.237, depth -0.938775, and color 0.120957/0.120957/0.574926
+Assigning pixel (586, 894) with color 32, 32, 148 and depth -0.941976
+Assigning pixel (587, 894) with color 32, 32, 148 and depth -0.940988
+Assigning pixel (588, 894) with color 32, 32, 148 and depth -0.939999
+Assigning pixel (589, 894) with color 31, 31, 147 and depth -0.93901
+Scanline 893 with left intercept at 584.948, depth -0.943004, and color 0.123663/0.123663/0.579805, right intercept at 589.225, depth -0.938775, and color 0.120281/0.120281/0.573708
+Assigning pixel (585, 893) with color 32, 32, 148 and depth -0.942952
+Assigning pixel (586, 893) with color 32, 32, 148 and depth -0.941964
+Assigning pixel (587, 893) with color 32, 32, 148 and depth -0.940975
+Assigning pixel (588, 893) with color 31, 31, 147 and depth -0.939986
+Assigning pixel (589, 893) with color 31, 31, 147 and depth -0.938998
+Scanline 892 with left intercept at 584.073, depth -0.943856, and color 0.12367/0.12367/0.579816, right intercept at 589.212, depth -0.938775, and color 0.119605/0.119605/0.572489
+Assigning pixel (585, 892) with color 32, 32, 148 and depth -0.94294
+Assigning pixel (586, 892) with color 32, 32, 148 and depth -0.941951
+Assigning pixel (587, 892) with color 31, 31, 147 and depth -0.940962
+Assigning pixel (588, 892) with color 31, 31, 147 and depth -0.939974
+Assigning pixel (589, 892) with color 31, 31, 147 and depth -0.938985
+Scanline 891 with left intercept at 583.198, depth -0.944709, and color 0.123676/0.123676/0.579827, right intercept at 589.199, depth -0.938775, and color 0.118929/0.118929/0.571271
+Assigning pixel (584, 891) with color 32, 32, 148 and depth -0.943916
+Assigning pixel (585, 891) with color 32, 32, 148 and depth -0.942927
+Assigning pixel (586, 891) with color 31, 31, 147 and depth -0.941939
+Assigning pixel (587, 891) with color 31, 31, 147 and depth -0.94095
+Assigning pixel (588, 891) with color 31, 31, 147 and depth -0.939961
+Assigning pixel (589, 891) with color 31, 31, 146 and depth -0.938973
+Scanline 890 with left intercept at 582.323, depth -0.945562, and color 0.123682/0.123682/0.579839, right intercept at 589.187, depth -0.938775, and color 0.118253/0.118253/0.570052
+Assigning pixel (583, 890) with color 32, 32, 148 and depth -0.944892
+Assigning pixel (584, 890) with color 32, 32, 148 and depth -0.943903
+Assigning pixel (585, 890) with color 31, 31, 147 and depth -0.942915
+Assigning pixel (586, 890) with color 31, 31, 147 and depth -0.941926
+Assigning pixel (587, 890) with color 31, 31, 147 and depth -0.940937
+Assigning pixel (588, 890) with color 31, 31, 146 and depth -0.939949
+Assigning pixel (589, 890) with color 31, 31, 146 and depth -0.93896
+Scanline 889 with left intercept at 581.448, depth -0.946414, and color 0.123688/0.123688/0.57985, right intercept at 589.174, depth -0.938775, and color 0.117578/0.117578/0.568834
+Assigning pixel (582, 889) with color 32, 32, 148 and depth -0.945868
+Assigning pixel (583, 889) with color 32, 32, 148 and depth -0.944879
+Assigning pixel (584, 889) with color 32, 32, 147 and depth -0.943891
+Assigning pixel (585, 889) with color 31, 31, 147 and depth -0.942902
+Assigning pixel (586, 889) with color 31, 31, 147 and depth -0.941913
+Assigning pixel (587, 889) with color 31, 31, 146 and depth -0.940925
+Assigning pixel (588, 889) with color 31, 31, 146 and depth -0.939936
+Assigning pixel (589, 889) with color 31, 31, 146 and depth -0.938947
+Scanline 888 with left intercept at 580.572, depth -0.947267, and color 0.123694/0.123694/0.579861, right intercept at 589.161, depth -0.938775, and color 0.116902/0.116902/0.567615
+Assigning pixel (581, 888) with color 32, 32, 148 and depth -0.946844
+Assigning pixel (582, 888) with color 32, 32, 148 and depth -0.945856
+Assigning pixel (583, 888) with color 32, 32, 147 and depth -0.944867
+Assigning pixel (584, 888) with color 31, 31, 147 and depth -0.943878
+Assigning pixel (585, 888) with color 31, 31, 147 and depth -0.94289
+Assigning pixel (586, 888) with color 31, 31, 146 and depth -0.941901
+Assigning pixel (587, 888) with color 31, 31, 146 and depth -0.940912
+Assigning pixel (588, 888) with color 31, 31, 146 and depth -0.939924
+Assigning pixel (589, 888) with color 30, 30, 145 and depth -0.938935
+Scanline 887 with left intercept at 579.697, depth -0.94812, and color 0.1237/0.1237/0.579872, right intercept at 589.149, depth -0.938775, and color 0.116226/0.116226/0.566397
+Assigning pixel (580, 887) with color 32, 32, 148 and depth -0.94782
+Assigning pixel (581, 887) with color 32, 32, 148 and depth -0.946832
+Assigning pixel (582, 887) with color 32, 32, 148 and depth -0.945843
+Assigning pixel (583, 887) with color 31, 31, 147 and depth -0.944854
+Assigning pixel (584, 887) with color 31, 31, 147 and depth -0.943866
+Assigning pixel (585, 887) with color 31, 31, 146 and depth -0.942877
+Assigning pixel (586, 887) with color 31, 31, 146 and depth -0.941888
+Assigning pixel (587, 887) with color 31, 31, 146 and depth -0.9409
+Assigning pixel (588, 887) with color 30, 30, 145 and depth -0.939911
+Assigning pixel (589, 887) with color 30, 30, 145 and depth -0.938922
+Scanline 886 with left intercept at 578.822, depth -0.948972, and color 0.123707/0.123707/0.579883, right intercept at 589.136, depth -0.938775, and color 0.11555/0.11555/0.565178
+Assigning pixel (579, 886) with color 32, 32, 148 and depth -0.948797
+Assigning pixel (580, 886) with color 32, 32, 148 and depth -0.947808
+Assigning pixel (581, 886) with color 32, 32, 148 and depth -0.946819
+Assigning pixel (582, 886) with color 31, 31, 147 and depth -0.945831
+Assigning pixel (583, 886) with color 31, 31, 147 and depth -0.944842
+Assigning pixel (584, 886) with color 31, 31, 146 and depth -0.943853
+Assigning pixel (585, 886) with color 31, 31, 146 and depth -0.942865
+Assigning pixel (586, 886) with color 31, 31, 146 and depth -0.941876
+Assigning pixel (587, 886) with color 30, 30, 145 and depth -0.940887
+Assigning pixel (588, 886) with color 30, 30, 145 and depth -0.939899
+Assigning pixel (589, 886) with color 30, 30, 145 and depth -0.93891
+Scanline 885 with left intercept at 577.947, depth -0.949825, and color 0.123713/0.123713/0.579894, right intercept at 589.123, depth -0.938775, and color 0.114874/0.114874/0.56396
+Assigning pixel (578, 885) with color 32, 32, 148 and depth -0.949773
+Assigning pixel (579, 885) with color 32, 32, 148 and depth -0.948784
+Assigning pixel (580, 885) with color 32, 32, 148 and depth -0.947795
+Assigning pixel (581, 885) with color 31, 31, 147 and depth -0.946807
+Assigning pixel (582, 885) with color 31, 31, 147 and depth -0.945818
+Assigning pixel (583, 885) with color 31, 31, 147 and depth -0.944829
+Assigning pixel (584, 885) with color 31, 31, 146 and depth -0.943841
+Assigning pixel (585, 885) with color 31, 31, 146 and depth -0.942852
+Assigning pixel (586, 885) with color 30, 30, 145 and depth -0.941863
+Assigning pixel (587, 885) with color 30, 30, 145 and depth -0.940875
+Assigning pixel (588, 885) with color 30, 30, 145 and depth -0.939886
+Assigning pixel (589, 885) with color 30, 30, 144 and depth -0.938897
+Scanline 884 with left intercept at 577.072, depth -0.950678, and color 0.123719/0.123719/0.579905, right intercept at 589.111, depth -0.938775, and color 0.114198/0.114198/0.562741
+Assigning pixel (578, 884) with color 32, 32, 148 and depth -0.94976
+Assigning pixel (579, 884) with color 32, 32, 148 and depth -0.948771
+Assigning pixel (580, 884) with color 31, 31, 147 and depth -0.947783
+Assigning pixel (581, 884) with color 31, 31, 147 and depth -0.946794
+Assigning pixel (582, 884) with color 31, 31, 147 and depth -0.945805
+Assigning pixel (583, 884) with color 31, 31, 146 and depth -0.944817
+Assigning pixel (584, 884) with color 31, 31, 146 and depth -0.943828
+Assigning pixel (585, 884) with color 30, 30, 145 and depth -0.942839
+Assigning pixel (586, 884) with color 30, 30, 145 and depth -0.941851
+Assigning pixel (587, 884) with color 30, 30, 145 and depth -0.940862
+Assigning pixel (588, 884) with color 30, 30, 144 and depth -0.939873
+Assigning pixel (589, 884) with color 30, 30, 144 and depth -0.938885
+Scanline 883 with left intercept at 576.197, depth -0.95153, and color 0.123725/0.123725/0.579916, right intercept at 589.098, depth -0.938775, and color 0.113522/0.113522/0.561523
+Assigning pixel (577, 883) with color 32, 32, 148 and depth -0.950736
+Assigning pixel (578, 883) with color 32, 32, 148 and depth -0.949748
+Assigning pixel (579, 883) with color 31, 31, 147 and depth -0.948759
+Assigning pixel (580, 883) with color 31, 31, 147 and depth -0.94777
+Assigning pixel (581, 883) with color 31, 31, 147 and depth -0.946782
+Assigning pixel (582, 883) with color 31, 31, 146 and depth -0.945793
+Assigning pixel (583, 883) with color 31, 31, 146 and depth -0.944804
+Assigning pixel (584, 883) with color 30, 30, 146 and depth -0.943816
+Assigning pixel (585, 883) with color 30, 30, 145 and depth -0.942827
+Assigning pixel (586, 883) with color 30, 30, 145 and depth -0.941838
+Assigning pixel (587, 883) with color 30, 30, 144 and depth -0.94085
+Assigning pixel (588, 883) with color 30, 30, 144 and depth -0.939861
+Assigning pixel (589, 883) with color 29, 29, 144 and depth -0.938872
+Scanline 882 with left intercept at 575.322, depth -0.952383, and color 0.123731/0.123731/0.579927, right intercept at 589.085, depth -0.938775, and color 0.112846/0.112846/0.560304
+Assigning pixel (576, 882) with color 32, 32, 148 and depth -0.951712
+Assigning pixel (577, 882) with color 32, 32, 148 and depth -0.950724
+Assigning pixel (578, 882) with color 32, 32, 147 and depth -0.949735
+Assigning pixel (579, 882) with color 31, 31, 147 and depth -0.948746
+Assigning pixel (580, 882) with color 31, 31, 147 and depth -0.947758
+Assigning pixel (581, 882) with color 31, 31, 146 and depth -0.946769
+Assigning pixel (582, 882) with color 31, 31, 146 and depth -0.94578
+Assigning pixel (583, 882) with color 31, 31, 146 and depth -0.944792
+Assigning pixel (584, 882) with color 30, 30, 145 and depth -0.943803
+Assigning pixel (585, 882) with color 30, 30, 145 and depth -0.942814
+Assigning pixel (586, 882) with color 30, 30, 144 and depth -0.941826
+Assigning pixel (587, 882) with color 30, 30, 144 and depth -0.940837
+Assigning pixel (588, 882) with color 29, 29, 144 and depth -0.939848
+Assigning pixel (589, 882) with color 29, 29, 143 and depth -0.93886
+Scanline 881 with left intercept at 574.447, depth -0.953235, and color 0.123737/0.123737/0.579939, right intercept at 589.073, depth -0.938775, and color 0.112171/0.112171/0.559086
+Assigning pixel (575, 881) with color 32, 32, 148 and depth -0.952688
+Assigning pixel (576, 881) with color 32, 32, 148 and depth -0.9517
+Assigning pixel (577, 881) with color 32, 32, 147 and depth -0.950711
+Assigning pixel (578, 881) with color 31, 31, 147 and depth -0.949722
+Assigning pixel (579, 881) with color 31, 31, 147 and depth -0.948734
+Assigning pixel (580, 881) with color 31, 31, 146 and depth -0.947745
+Assigning pixel (581, 881) with color 31, 31, 146 and depth -0.946757
+Assigning pixel (582, 881) with color 31, 31, 146 and depth -0.945768
+Assigning pixel (583, 881) with color 30, 30, 145 and depth -0.944779
+Assigning pixel (584, 881) with color 30, 30, 145 and depth -0.943791
+Assigning pixel (585, 881) with color 30, 30, 145 and depth -0.942802
+Assigning pixel (586, 881) with color 30, 30, 144 and depth -0.941813
+Assigning pixel (587, 881) with color 30, 30, 144 and depth -0.940825
+Assigning pixel (588, 881) with color 29, 29, 143 and depth -0.939836
+Assigning pixel (589, 881) with color 29, 29, 143 and depth -0.938847
+Scanline 880 with left intercept at 573.572, depth -0.954088, and color 0.123744/0.123744/0.57995, right intercept at 589.06, depth -0.938775, and color 0.111495/0.111495/0.557867
+Assigning pixel (574, 880) with color 32, 32, 148 and depth -0.953665
+Assigning pixel (575, 880) with color 32, 32, 148 and depth -0.952676
+Assigning pixel (576, 880) with color 32, 32, 148 and depth -0.951687
+Assigning pixel (577, 880) with color 31, 31, 147 and depth -0.950699
+Assigning pixel (578, 880) with color 31, 31, 147 and depth -0.94971
+Assigning pixel (579, 880) with color 31, 31, 146 and depth -0.948721
+Assigning pixel (580, 880) with color 31, 31, 146 and depth -0.947733
+Assigning pixel (581, 880) with color 31, 31, 146 and depth -0.946744
+Assigning pixel (582, 880) with color 30, 30, 145 and depth -0.945755
+Assigning pixel (583, 880) with color 30, 30, 145 and depth -0.944767
+Assigning pixel (584, 880) with color 30, 30, 145 and depth -0.943778
+Assigning pixel (585, 880) with color 30, 30, 144 and depth -0.942789
+Assigning pixel (586, 880) with color 30, 30, 144 and depth -0.941801
+Assigning pixel (587, 880) with color 29, 29, 144 and depth -0.940812
+Assigning pixel (588, 880) with color 29, 29, 143 and depth -0.939823
+Assigning pixel (589, 880) with color 29, 29, 143 and depth -0.938835
+Scanline 879 with left intercept at 572.697, depth -0.954941, and color 0.12375/0.12375/0.579961, right intercept at 589.047, depth -0.938775, and color 0.110819/0.110819/0.556649
+Assigning pixel (573, 879) with color 32, 32, 148 and depth -0.954641
+Assigning pixel (574, 879) with color 32, 32, 148 and depth -0.953652
+Assigning pixel (575, 879) with color 32, 32, 148 and depth -0.952663
+Assigning pixel (576, 879) with color 31, 31, 147 and depth -0.951675
+Assigning pixel (577, 879) with color 31, 31, 147 and depth -0.950686
+Assigning pixel (578, 879) with color 31, 31, 146 and depth -0.949697
+Assigning pixel (579, 879) with color 31, 31, 146 and depth -0.948709
+Assigning pixel (580, 879) with color 31, 31, 146 and depth -0.94772
+Assigning pixel (581, 879) with color 30, 30, 145 and depth -0.946731
+Assigning pixel (582, 879) with color 30, 30, 145 and depth -0.945743
+Assigning pixel (583, 879) with color 30, 30, 145 and depth -0.944754
+Assigning pixel (584, 879) with color 30, 30, 144 and depth -0.943765
+Assigning pixel (585, 879) with color 30, 30, 144 and depth -0.942777
+Assigning pixel (586, 879) with color 29, 29, 144 and depth -0.941788
+Assigning pixel (587, 879) with color 29, 29, 143 and depth -0.940799
+Assigning pixel (588, 879) with color 29, 29, 143 and depth -0.939811
+Assigning pixel (589, 879) with color 29, 29, 142 and depth -0.938822
+Scanline 878 with left intercept at 571.821, depth -0.955793, and color 0.123756/0.123756/0.579972, right intercept at 589.035, depth -0.938775, and color 0.110143/0.110143/0.55543
+Assigning pixel (572, 878) with color 32, 32, 148 and depth -0.955617
+Assigning pixel (573, 878) with color 32, 32, 148 and depth -0.954628
+Assigning pixel (574, 878) with color 32, 32, 148 and depth -0.95364
+Assigning pixel (575, 878) with color 31, 31, 147 and depth -0.952651
+Assigning pixel (576, 878) with color 31, 31, 147 and depth -0.951662
+Assigning pixel (577, 878) with color 31, 31, 147 and depth -0.950674
+Assigning pixel (578, 878) with color 31, 31, 146 and depth -0.949685
+Assigning pixel (579, 878) with color 31, 31, 146 and depth -0.948696
+Assigning pixel (580, 878) with color 30, 30, 145 and depth -0.947708
+Assigning pixel (581, 878) with color 30, 30, 145 and depth -0.946719
+Assigning pixel (582, 878) with color 30, 30, 145 and depth -0.94573
+Assigning pixel (583, 878) with color 30, 30, 144 and depth -0.944742
+Assigning pixel (584, 878) with color 30, 30, 144 and depth -0.943753
+Assigning pixel (585, 878) with color 29, 29, 144 and depth -0.942764
+Assigning pixel (586, 878) with color 29, 29, 143 and depth -0.941776
+Assigning pixel (587, 878) with color 29, 29, 143 and depth -0.940787
+Assigning pixel (588, 878) with color 29, 29, 143 and depth -0.939798
+Assigning pixel (589, 878) with color 29, 29, 142 and depth -0.93881
+WORKING ON TRIANGLE 9
+
+
+Scanline 878 with left intercept at 571.429, depth -0.956179, and color 0.124023/0.124023/0.580454, right intercept at 571.821, depth -0.955793, and color 0.123756/0.123756/0.579972
+Scanline 879 with left intercept at 571.429, depth -0.956186, and color 0.124612/0.124612/0.581515, right intercept at 572.697, depth -0.954941, and color 0.12375/0.12375/0.579961
+Assigning pixel (572, 879) with color 32, 32, 149 and depth -0.955625
+Scanline 880 with left intercept at 571.429, depth -0.956192, and color 0.125201/0.125201/0.582577, right intercept at 573.572, depth -0.954088, and color 0.123744/0.123744/0.57995
+Assigning pixel (572, 880) with color 32, 32, 149 and depth -0.955631
+Assigning pixel (573, 880) with color 32, 32, 149 and depth -0.954649
+Scanline 881 with left intercept at 571.429, depth -0.956198, and color 0.12579/0.12579/0.583639, right intercept at 574.447, depth -0.953235, and color 0.123737/0.123737/0.579939
+Assigning pixel (572, 881) with color 32, 32, 149 and depth -0.955637
+Assigning pixel (573, 881) with color 32, 32, 149 and depth -0.954656
+Assigning pixel (574, 881) with color 32, 32, 149 and depth -0.953674
+Scanline 882 with left intercept at 571.429, depth -0.956205, and color 0.126379/0.126379/0.584701, right intercept at 575.322, depth -0.952383, and color 0.123731/0.123731/0.579927
+Assigning pixel (572, 882) with color 33, 33, 149 and depth -0.955644
+Assigning pixel (573, 882) with color 32, 32, 149 and depth -0.954662
+Assigning pixel (574, 882) with color 32, 32, 149 and depth -0.953681
+Assigning pixel (575, 882) with color 32, 32, 148 and depth -0.952699
+Scanline 883 with left intercept at 571.429, depth -0.956211, and color 0.126968/0.126968/0.585763, right intercept at 576.197, depth -0.95153, and color 0.123725/0.123725/0.579916
+Assigning pixel (572, 883) with color 33, 33, 150 and depth -0.95565
+Assigning pixel (573, 883) with color 33, 33, 149 and depth -0.954669
+Assigning pixel (574, 883) with color 32, 32, 149 and depth -0.953687
+Assigning pixel (575, 883) with color 32, 32, 149 and depth -0.952705
+Assigning pixel (576, 883) with color 32, 32, 148 and depth -0.951724
+Scanline 884 with left intercept at 571.429, depth -0.956218, and color 0.127557/0.127557/0.586825, right intercept at 577.072, depth -0.950678, and color 0.123719/0.123719/0.579905
+Assigning pixel (572, 884) with color 33, 33, 150 and depth -0.955657
+Assigning pixel (573, 884) with color 33, 33, 150 and depth -0.954675
+Assigning pixel (574, 884) with color 33, 33, 149 and depth -0.953693
+Assigning pixel (575, 884) with color 32, 32, 149 and depth -0.952712
+Assigning pixel (576, 884) with color 32, 32, 149 and depth -0.95173
+Assigning pixel (577, 884) with color 32, 32, 148 and depth -0.950748
+Scanline 885 with left intercept at 571.429, depth -0.956224, and color 0.128146/0.128146/0.587887, right intercept at 577.947, depth -0.949825, and color 0.123713/0.123713/0.579894
+Assigning pixel (572, 885) with color 33, 33, 150 and depth -0.955663
+Assigning pixel (573, 885) with color 33, 33, 150 and depth -0.954682
+Assigning pixel (574, 885) with color 33, 33, 150 and depth -0.9537
+Assigning pixel (575, 885) with color 33, 33, 149 and depth -0.952718
+Assigning pixel (576, 885) with color 32, 32, 149 and depth -0.951736
+Assigning pixel (577, 885) with color 32, 32, 149 and depth -0.950755
+Scanline 886 with left intercept at 571.429, depth -0.956231, and color 0.128735/0.128735/0.588949, right intercept at 578.822, depth -0.948972, and color 0.123707/0.123707/0.579883
+Assigning pixel (572, 886) with color 33, 33, 151 and depth -0.95567
+Assigning pixel (573, 886) with color 33, 33, 150 and depth -0.954688
+Assigning pixel (574, 886) with color 33, 33, 150 and depth -0.953706
+Assigning pixel (575, 886) with color 33, 33, 150 and depth -0.952725
+Assigning pixel (576, 886) with color 33, 33, 149 and depth -0.951743
+Assigning pixel (577, 886) with color 32, 32, 149 and depth -0.950761
+Assigning pixel (578, 886) with color 32, 32, 149 and depth -0.949779
+Scanline 887 with left intercept at 571.429, depth -0.956237, and color 0.129324/0.129324/0.590011, right intercept at 579.697, depth -0.94812, and color 0.1237/0.1237/0.579872
+Assigning pixel (572, 887) with color 33, 33, 151 and depth -0.955676
+Assigning pixel (573, 887) with color 33, 33, 150 and depth -0.954695
+Assigning pixel (574, 887) with color 33, 33, 150 and depth -0.953713
+Assigning pixel (575, 887) with color 33, 33, 150 and depth -0.952731
+Assigning pixel (576, 887) with color 33, 33, 150 and depth -0.951749
+Assigning pixel (577, 887) with color 33, 33, 149 and depth -0.950768
+Assigning pixel (578, 887) with color 32, 32, 149 and depth -0.949786
+Assigning pixel (579, 887) with color 32, 32, 149 and depth -0.948804
+Scanline 888 with left intercept at 571.429, depth -0.956244, and color 0.129913/0.129913/0.591073, right intercept at 580.572, depth -0.947267, and color 0.123694/0.123694/0.579861
+Assigning pixel (572, 888) with color 34, 34, 151 and depth -0.955683
+Assigning pixel (573, 888) with color 33, 33, 151 and depth -0.954701
+Assigning pixel (574, 888) with color 33, 33, 150 and depth -0.953719
+Assigning pixel (575, 888) with color 33, 33, 150 and depth -0.952738
+Assigning pixel (576, 888) with color 33, 33, 150 and depth -0.951756
+Assigning pixel (577, 888) with color 33, 33, 149 and depth -0.950774
+Assigning pixel (578, 888) with color 32, 32, 149 and depth -0.949792
+Assigning pixel (579, 888) with color 32, 32, 149 and depth -0.948811
+Assigning pixel (580, 888) with color 32, 32, 149 and depth -0.947829
+Scanline 889 with left intercept at 571.429, depth -0.95625, and color 0.130502/0.130502/0.592135, right intercept at 581.448, depth -0.946414, and color 0.123688/0.123688/0.57985
+Assigning pixel (572, 889) with color 34, 34, 151 and depth -0.955689
+Assigning pixel (573, 889) with color 34, 34, 151 and depth -0.954707
+Assigning pixel (574, 889) with color 33, 33, 151 and depth -0.953726
+Assigning pixel (575, 889) with color 33, 33, 150 and depth -0.952744
+Assigning pixel (576, 889) with color 33, 33, 150 and depth -0.951762
+Assigning pixel (577, 889) with color 33, 33, 150 and depth -0.950781
+Assigning pixel (578, 889) with color 33, 33, 149 and depth -0.949799
+Assigning pixel (579, 889) with color 32, 32, 149 and depth -0.948817
+Assigning pixel (580, 889) with color 32, 32, 149 and depth -0.947835
+Assigning pixel (581, 889) with color 32, 32, 149 and depth -0.946854
+Scanline 890 with left intercept at 571.429, depth -0.956257, and color 0.131091/0.131091/0.593197, right intercept at 582.323, depth -0.945562, and color 0.123682/0.123682/0.579839
+Assigning pixel (572, 890) with color 34, 34, 152 and depth -0.955696
+Assigning pixel (573, 890) with color 34, 34, 151 and depth -0.954714
+Assigning pixel (574, 890) with color 33, 33, 151 and depth -0.953732
+Assigning pixel (575, 890) with color 33, 33, 151 and depth -0.95275
+Assigning pixel (576, 890) with color 33, 33, 150 and depth -0.951769
+Assigning pixel (577, 890) with color 33, 33, 150 and depth -0.950787
+Assigning pixel (578, 890) with color 33, 33, 150 and depth -0.949805
+Assigning pixel (579, 890) with color 33, 33, 149 and depth -0.948824
+Assigning pixel (580, 890) with color 32, 32, 149 and depth -0.947842
+Assigning pixel (581, 890) with color 32, 32, 149 and depth -0.94686
+Assigning pixel (582, 890) with color 32, 32, 148 and depth -0.945878
+Scanline 891 with left intercept at 571.429, depth -0.956263, and color 0.13168/0.13168/0.594259, right intercept at 583.198, depth -0.944709, and color 0.123676/0.123676/0.579827
+Assigning pixel (572, 891) with color 34, 34, 152 and depth -0.955702
+Assigning pixel (573, 891) with color 34, 34, 152 and depth -0.95472
+Assigning pixel (574, 891) with color 34, 34, 151 and depth -0.953739
+Assigning pixel (575, 891) with color 33, 33, 151 and depth -0.952757
+Assigning pixel (576, 891) with color 33, 33, 151 and depth -0.951775
+Assigning pixel (577, 891) with color 33, 33, 150 and depth -0.950793
+Assigning pixel (578, 891) with color 33, 33, 150 and depth -0.949812
+Assigning pixel (579, 891) with color 33, 33, 150 and depth -0.94883
+Assigning pixel (580, 891) with color 33, 33, 149 and depth -0.947848
+Assigning pixel (581, 891) with color 32, 32, 149 and depth -0.946867
+Assigning pixel (582, 891) with color 32, 32, 149 and depth -0.945885
+Assigning pixel (583, 891) with color 32, 32, 148 and depth -0.944903
+Scanline 892 with left intercept at 571.429, depth -0.95627, and color 0.13227/0.13227/0.59532, right intercept at 584.073, depth -0.943856, and color 0.12367/0.12367/0.579816
+Assigning pixel (572, 892) with color 34, 34, 152 and depth -0.955709
+Assigning pixel (573, 892) with color 34, 34, 152 and depth -0.954727
+Assigning pixel (574, 892) with color 34, 34, 152 and depth -0.953745
+Assigning pixel (575, 892) with color 34, 34, 151 and depth -0.952763
+Assigning pixel (576, 892) with color 33, 33, 151 and depth -0.951782
+Assigning pixel (577, 892) with color 33, 33, 151 and depth -0.9508
+Assigning pixel (578, 892) with color 33, 33, 150 and depth -0.949818
+Assigning pixel (579, 892) with color 33, 33, 150 and depth -0.948837
+Assigning pixel (580, 892) with color 33, 33, 150 and depth -0.947855
+Assigning pixel (581, 892) with color 33, 33, 149 and depth -0.946873
+Assigning pixel (582, 892) with color 32, 32, 149 and depth -0.945891
+Assigning pixel (583, 892) with color 32, 32, 149 and depth -0.94491
+Assigning pixel (584, 892) with color 32, 32, 148 and depth -0.943928
+Scanline 893 with left intercept at 571.429, depth -0.956276, and color 0.132859/0.132859/0.596382, right intercept at 584.948, depth -0.943004, and color 0.123663/0.123663/0.579805
+Assigning pixel (572, 893) with color 34, 34, 152 and depth -0.955715
+Assigning pixel (573, 893) with color 34, 34, 152 and depth -0.954733
+Assigning pixel (574, 893) with color 34, 34, 152 and depth -0.953752
+Assigning pixel (575, 893) with color 34, 34, 151 and depth -0.95277
+Assigning pixel (576, 893) with color 34, 34, 151 and depth -0.951788
+Assigning pixel (577, 893) with color 33, 33, 151 and depth -0.950806
+Assigning pixel (578, 893) with color 33, 33, 151 and depth -0.949825
+Assigning pixel (579, 893) with color 33, 33, 150 and depth -0.948843
+Assigning pixel (580, 893) with color 33, 33, 150 and depth -0.947861
+Assigning pixel (581, 893) with color 33, 33, 150 and depth -0.94688
+Assigning pixel (582, 893) with color 33, 33, 149 and depth -0.945898
+Assigning pixel (583, 893) with color 32, 32, 149 and depth -0.944916
+Assigning pixel (584, 893) with color 32, 32, 149 and depth -0.943934
+Scanline 894 with left intercept at 571.429, depth -0.956282, and color 0.133448/0.133448/0.597444, right intercept at 585.823, depth -0.942151, and color 0.123657/0.123657/0.579794
+Assigning pixel (572, 894) with color 34, 34, 153 and depth -0.955721
+Assigning pixel (573, 894) with color 34, 34, 152 and depth -0.95474
+Assigning pixel (574, 894) with color 34, 34, 152 and depth -0.953758
+Assigning pixel (575, 894) with color 34, 34, 152 and depth -0.952776
+Assigning pixel (576, 894) with color 34, 34, 151 and depth -0.951795
+Assigning pixel (577, 894) with color 34, 34, 151 and depth -0.950813
+Assigning pixel (578, 894) with color 33, 33, 151 and depth -0.949831
+Assigning pixel (579, 894) with color 33, 33, 150 and depth -0.948849
+Assigning pixel (580, 894) with color 33, 33, 150 and depth -0.947868
+Assigning pixel (581, 894) with color 33, 33, 150 and depth -0.946886
+Assigning pixel (582, 894) with color 33, 33, 150 and depth -0.945904
+Assigning pixel (583, 894) with color 33, 33, 149 and depth -0.944923
+Assigning pixel (584, 894) with color 32, 32, 149 and depth -0.943941
+Assigning pixel (585, 894) with color 32, 32, 149 and depth -0.942959
+Scanline 895 with left intercept at 571.429, depth -0.956289, and color 0.134037/0.134037/0.598506, right intercept at 586.698, depth -0.941298, and color 0.123651/0.123651/0.579783
+Assigning pixel (572, 895) with color 35, 35, 153 and depth -0.955728
+Assigning pixel (573, 895) with color 34, 34, 153 and depth -0.954746
+Assigning pixel (574, 895) with color 34, 34, 152 and depth -0.953764
+Assigning pixel (575, 895) with color 34, 34, 152 and depth -0.952783
+Assigning pixel (576, 895) with color 34, 34, 152 and depth -0.951801
+Assigning pixel (577, 895) with color 34, 34, 151 and depth -0.950819
+Assigning pixel (578, 895) with color 34, 34, 151 and depth -0.949838
+Assigning pixel (579, 895) with color 33, 33, 151 and depth -0.948856
+Assigning pixel (580, 895) with color 33, 33, 150 and depth -0.947874
+Assigning pixel (581, 895) with color 33, 33, 150 and depth -0.946892
+Assigning pixel (582, 895) with color 33, 33, 150 and depth -0.945911
+Assigning pixel (583, 895) with color 33, 33, 150 and depth -0.944929
+Assigning pixel (584, 895) with color 32, 32, 149 and depth -0.943947
+Assigning pixel (585, 895) with color 32, 32, 149 and depth -0.942966
+Assigning pixel (586, 895) with color 32, 32, 149 and depth -0.941984
+Scanline 896 with left intercept at 571.429, depth -0.956295, and color 0.134626/0.134626/0.599568, right intercept at 587.573, depth -0.940446, and color 0.123645/0.123645/0.579772
+Assigning pixel (572, 896) with color 35, 35, 153 and depth -0.955734
+Assigning pixel (573, 896) with color 35, 35, 153 and depth -0.954753
+Assigning pixel (574, 896) with color 34, 34, 153 and depth -0.953771
+Assigning pixel (575, 896) with color 34, 34, 152 and depth -0.952789
+Assigning pixel (576, 896) with color 34, 34, 152 and depth -0.951808
+Assigning pixel (577, 896) with color 34, 34, 152 and depth -0.950826
+Assigning pixel (578, 896) with color 34, 34, 151 and depth -0.949844
+Assigning pixel (579, 896) with color 34, 34, 151 and depth -0.948862
+Assigning pixel (580, 896) with color 33, 33, 151 and depth -0.947881
+Assigning pixel (581, 896) with color 33, 33, 150 and depth -0.946899
+Assigning pixel (582, 896) with color 33, 33, 150 and depth -0.945917
+Assigning pixel (583, 896) with color 33, 33, 150 and depth -0.944935
+Assigning pixel (584, 896) with color 33, 33, 149 and depth -0.943954
+Assigning pixel (585, 896) with color 32, 32, 149 and depth -0.942972
+Assigning pixel (586, 896) with color 32, 32, 149 and depth -0.94199
+Assigning pixel (587, 896) with color 32, 32, 149 and depth -0.941009
+Scanline 897 with left intercept at 571.429, depth -0.956302, and color 0.135215/0.135215/0.60063, right intercept at 588.448, depth -0.939593, and color 0.123639/0.123639/0.579761
+Assigning pixel (572, 897) with color 35, 35, 153 and depth -0.955741
+Assigning pixel (573, 897) with color 35, 35, 153 and depth -0.954759
+Assigning pixel (574, 897) with color 35, 35, 153 and depth -0.953777
+Assigning pixel (575, 897) with color 34, 34, 153 and depth -0.952796
+Assigning pixel (576, 897) with color 34, 34, 152 and depth -0.951814
+Assigning pixel (577, 897) with color 34, 34, 152 and depth -0.950832
+Assigning pixel (578, 897) with color 34, 34, 152 and depth -0.949851
+Assigning pixel (579, 897) with color 34, 34, 151 and depth -0.948869
+Assigning pixel (580, 897) with color 33, 33, 151 and depth -0.947887
+Assigning pixel (581, 897) with color 33, 33, 151 and depth -0.946905
+Assigning pixel (582, 897) with color 33, 33, 150 and depth -0.945924
+Assigning pixel (583, 897) with color 33, 33, 150 and depth -0.944942
+Assigning pixel (584, 897) with color 33, 33, 150 and depth -0.94396
+Assigning pixel (585, 897) with color 33, 33, 149 and depth -0.942978
+Assigning pixel (586, 897) with color 32, 32, 149 and depth -0.941997
+Assigning pixel (587, 897) with color 32, 32, 149 and depth -0.941015
+Assigning pixel (588, 897) with color 32, 32, 148 and depth -0.940033
